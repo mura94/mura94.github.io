@@ -1,3 +1,14 @@
+---
+layout: post
+title: Testing iOS Web AR Capabilities
+subtitle: Creating augmented reality animations & interactions for mobile web browsers 
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [AR, Web, XR, iOS]
+---
+
+
 # WebAR for iOS Devices
 Testing AR visualization for Safari on iOS devices. Click 👉[here](https://mura94.github.io/WebAR/) to view the Web AR test page in Safari on an iOS device.
 
