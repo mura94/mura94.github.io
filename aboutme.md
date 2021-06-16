@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Stuff that interests me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Blake Jarvis, I'm born and raised in the Seattle area where I currently live with my wife, dog and cats. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I have many interests that I will be posting about on this site:
 
-What else do you need?
+- Developing AR & VR experiences
+- Painting
+- 3D printing
+- Music production & sound design
+- Digital media & art
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+TLDR; I like to make stuff.
