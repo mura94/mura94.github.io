@@ -2,8 +2,8 @@
 layout: post
 title: Testing iOS Web AR Capabilities
 subtitle: Creating augmented reality animations & interactions for mobile web browsers 
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+# cover-img: /assets/img/path.jpg
+# thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [AR, Web, XR, iOS]
 ---

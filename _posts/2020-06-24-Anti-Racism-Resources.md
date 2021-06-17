@@ -2,8 +2,8 @@
 layout: post
 title: Anti-Racism Resources
 subtitle: Links to reading, voices, drives, petitions, and more to help you get started
-cover-img: /assets/img/path.jpg
-share-img: /assets/img/path.jpg
+# cover-img: /assets/img/path.jpg
+# share-img: /assets/img/path.jpg
 tags: [Resources]
 ---
 
