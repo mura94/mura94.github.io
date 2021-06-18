@@ -4,7 +4,7 @@ title: About me
 subtitle: Stuff that interests me
 ---
 
-My name is Blake Jarvis, I'm born and raised in the Seattle area where I currently live with my wife, dog and cats. 
+My name is Blake Jarvis, I'm born and raised in the Seattle area where I currently live with my wife, dog, and cats. 
 
 I have many interests that I will be posting about on this site:
 
@@ -15,3 +15,5 @@ I have many interests that I will be posting about on this site:
 - Digital media & art
 
 TLDR; I like to make stuff.
+
+Please stay tuned as this site is in progress! 
