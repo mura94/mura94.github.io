@@ -1,5 +1,6 @@
 ---
-Title: Display Sortable .csv Data in Markdown & Github
+title: Display Sortable .csv Data in Markdown & Github
+layout: post
 ---
 
 <table>
@@ -16,5 +17,5 @@ Title: Display Sortable .csv Data in Markdown & Github
       {{ pair[1] }}
     {% endtablerow %}
   {% endfor %}
-  
+
 </table>
