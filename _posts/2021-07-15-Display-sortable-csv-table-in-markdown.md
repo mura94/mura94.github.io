@@ -1,6 +1,6 @@
 ---
-title: Display Sortable .csv Data in Markdown & Github
 layout: post
+title: Display Sortable .csv Data in Markdown & Github
 subtitle: test
 ---
 
