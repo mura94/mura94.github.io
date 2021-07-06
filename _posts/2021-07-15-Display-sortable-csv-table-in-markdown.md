@@ -2,6 +2,7 @@
 layout: post
 title: Display Sortable .csv Data in Markdown & Github
 subtitle: test
+datatable: true
 ---
 
 # Test Heading
