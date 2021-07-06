@@ -11,7 +11,7 @@ Test text
 
 <table>
 
-{% for row = site.data.fragrances %}
+{% for row = site.assets.fragrances %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}
