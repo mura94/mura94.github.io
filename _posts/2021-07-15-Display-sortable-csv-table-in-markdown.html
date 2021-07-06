@@ -6,7 +6,8 @@ datatable: true
 ---
 
 <table class="display"> 
-    {% for row in site.data.fragrances %} {% if forloop.first %} 
+    {% for row in site.data.fragrances %} 
+    {% if forloop.first %} 
     <thead> 
         <tr> 
             {% for pair in row %} 
@@ -16,4 +17,6 @@ datatable: true
             {% endfor %} 
         </tr> 
     </thead> 
+    {% endif %}
+{% endfor %}
 </table>
