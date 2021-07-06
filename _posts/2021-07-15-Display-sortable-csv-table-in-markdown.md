@@ -10,7 +10,7 @@ datatable: true
 Test text
 
 
-<table>
+<table class = "display">
 
 {% for row in site.assets.fragrances %}
     {% if forloop.first %}
