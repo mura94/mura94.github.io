@@ -4,115 +4,179 @@ title: Art Gallery
 subtitle: Some of my recent paintings
 ---
 
-**On this Page:**
+# Art Gallery
 
-- [Paintings](#paintings)
-  - [Garlic & Spinach](#garlic--spinach)
-  - [Avocado](#avocado)
-  - [Apples](#apples)
-  - [Salmon](#salmon)
-  - [Baldy Mountain 2](#baldy-mountain-2)
-  - [Bald Mountain, ID](#bald-mountain-id)
-  - [Sailing](#sailing)
-  - [Wood River, ID](#wood-river-id)
-  - [Cloudy Sky](#cloudy-sky)
-  - [Wildebeest](#wildebeest)
-  - [Cow](#cow)
-  - [Herons](#herons)
-  - [Mar del Sol](#mar-del-sol)
-  - [Galley Bay, BC](#galley-bay-bc)
-  - [Ship](#ship)
+On this page you can find some of my pieces from various hobbies, including painting, 3D modeling, rendering, 3D Printing, resin casting, etc.
 
-# Paintings
+## Table of Contents
+
+- [Art Gallery](#art-gallery)
+  - [Table of Contents](#table-of-contents)
+  - [Paintings](#paintings)
+    - [Garlic & Spinach](#garlic--spinach)
+    - [Avocado](#avocado)
+    - [Apples](#apples)
+    - [Salmon](#salmon)
+    - [Baldy Mountain 2](#baldy-mountain-2)
+    - [Bald Mountain, ID](#bald-mountain-id)
+    - [Sailing](#sailing)
+    - [Wood River, ID](#wood-river-id)
+    - [Cloudy Sky](#cloudy-sky)
+    - [Wildebeest](#wildebeest)
+    - [Cow](#cow)
+    - [Herons](#herons)
+    - [Mar del Sol](#mar-del-sol)
+    - [Galley Bay, BC](#galley-bay-bc)
+    - [Ship](#ship)
+  - [Renders](#renders)
+    - [Living Room](#living-room)
+    - [The Old Guard Inn](#the-old-guard-inn)
+    - [Egg](#egg)
+    - [Knife](#knife)
+    - [Phone](#phone)
+    - [Pierre & Jennifer](#pierre--jennifer)
+    - [Stay Cool](#stay-cool)
+    - [Hoops Madness](#hoops-madness)
+    - [Coffee Cup](#coffee-cup)
+
+## Paintings
 
 I started learning to paint in January 2021, and it's been a great way for me to relax after work or on the weekends. My preferred medium so far has been Oil.
 
-## Garlic & Spinach 
+[Back to Top](#table-of-contents)
+
+### Garlic & Spinach 
 
 ![Garlic & Spinach](https://raw.githubusercontent.com/mura94/image-upload/main/FinishedPaintings/GarlicAndSpinach_v1.png)
 
 *18x24 in, Oil on Canvas, 2021*
 
-## Avocado
+### Avocado
 
 ![Avocado](https://raw.githubusercontent.com/mura94/image-upload/main/FinishedPaintings/avocado.png)
 
 *12x12 in, Oil on Canvas Panel, 2021*
 
-## Apples
+### Apples
 
 ![Apples](https://github.com/mura94/image-upload/blob/main/FinishedPaintings/apples.png?raw=true)
 
 *16 x 20 in, Oil on Canvas, 2021*
 
-## Salmon
+### Salmon
 
 ![Salmon](https://github.com/mura94/image-upload/blob/main/FinishedPaintings/salmon.jpg?raw=true)
 
 *11 x 14 in, Oil on Canvas, 2021*
 
-## Baldy Mountain 2
+### Baldy Mountain 2
 
 ![Baldy2](https://github.com/mura94/image-upload/blob/main/FinishedPaintings/baldy2.jpg?raw=true)
 
 *8 x 8 in, Oil on Canvas, 2021*
 
-## Bald Mountain, ID
+### Bald Mountain, ID
 
 ![Baldy](https://github.com/mura94/image-upload/blob/main/FinishedPaintings/baldy.jpg?raw=true)
 
 *11 x 14 in, Oil on Canvas, 2021*
 
-## Sailing
+### Sailing
 
 ![Sailing](https://github.com/mura94/image-upload/blob/main/FinishedPaintings/sailboat.jpg?raw=true)
 
 *5.5 x 8.5 in, Acrylic on Paper, 2021*
 
-## Wood River, ID
+### Wood River, ID
 
 ![WoodRiver](https://github.com/mura94/image-upload/blob/main/FinishedPaintings/woodriver.jpg?raw=true)
 
 *11 x 14 in, Acrylic on Canvas, 2021*
 
-## Cloudy Sky
+### Cloudy Sky
 
 ![CloudySky](https://github.com/mura94/image-upload/blob/main/FinishedPaintings/field.jpg?raw=true)
 
 *7 x 9.5 in, Acrylic on Paper, 2021*
 
-## Wildebeest
+### Wildebeest
 
 ![Wildebeest](https://github.com/mura94/image-upload/blob/main/FinishedPaintings/wildebeest.jpg?raw=true)
 
 *11 x 14 in, Acrylic on Canvas, 2021*
 
-## Cow
+### Cow
 
 ![Cow](https://github.com/mura94/image-upload/blob/main/FinishedPaintings/cow.jpg?raw=true)
 
 *11 x 14 in, Acrylic on Canvas, 2021*
 
-## Herons
+### Herons
 
 ![Herons](https://github.com/mura94/image-upload/blob/main/FinishedPaintings/20210118_143142.jpg?raw=true)
 
 *11 x 14 in, Acrylic on Canvas, 2021*
 
-## Mar del Sol
+### Mar del Sol
 
 ![Mexico](https://github.com/mura94/image-upload/blob/main/FinishedPaintings/mexico.jpg?raw=true)
 
 *8 x 10 in, Acrylic on Canvas Panel, 2021*
 
-## Galley Bay, BC
+### Galley Bay, BC
 
 ![GalleyBay](https://github.com/mura94/image-upload/blob/main/FinishedPaintings/galley_bay.jpg?raw=true)
 
 *8 x 10 in, Acrylic on Canvas Panel, 2021*
 
-## Ship
+### Ship
 
 ![Ship](https://github.com/mura94/image-upload/blob/main/FinishedPaintings/ship.jpg?raw=true)
 
 *8 x 10 in, Acrylic on Canvas Panel, 2021*
+
+[Back to Top](#table-of-contents)
+
+----
+
+## Renders
+
+Due to the nature of my work, I have become intimately familiar with Blender, 3D modeling, andimation, and rendering concepts & techniques. You can see some of my personal work and progression below.
+
+### Living Room
+
+![LivingRoom](https://github.com/mura94/image-upload/blob/main/Renders/LivingRoom_v1_Herons.png?raw=true)
+
+### The Old Guard Inn
+
+![OldGuardInn](https://github.com/mura94/image-upload/blob/main/Renders/flowerbar_v3_2k.png?raw=true)
+
+### Egg
+
+![Egg_Closeup](https://github.com/mura94/image-upload/blob/main/Renders/Egg_Closeup.png?raw=true)
+
+### Knife
+
+![Knife](https://github.com/mura94/image-upload/blob/main/Renders/0076.png?raw=true)
+
+### Phone
+
+![Phone](https://github.com/mura94/image-upload/blob/main/Renders/iPhone_v3_1440_square.png?raw=true)
+
+### Pierre & Jennifer
+
+![PierreAndJennifer](https://github.com/mura94/image-upload/blob/main/Renders/pierre_jennifer_03_4k (1).png?raw=true)
+
+### Stay Cool
+
+![StayCool](https://github.com/mura94/image-upload/blob/main/Renders/staycool_v8 (1).png?raw=true)
+
+### Hoops Madness
+
+![StayCool](https://github.com/mura94/image-upload/blob/main/Renders/Hoops_Madness_Logo_Realistic_v1_02 (1).png?raw=true)
+
+### Coffee Cup
+
+![Coffee](https://github.com/mura94/image-upload/blob/main/Renders/Coffee_Cup_Render_009.png?raw=true)
+
+[Back to Top](#table-of-contents)
