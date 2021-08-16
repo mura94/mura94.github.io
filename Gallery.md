@@ -208,19 +208,19 @@ Due to the nature of my job, I spend a lot of time in Blender doing 3D modeling,
 
 ### Pierre & Jennifer
 
-![PierreAndJennifer](<https://github.com/mura94/image-upload/blob/main/Renders/pierre_jennifer_03_4k> (1).png?raw=true)
+![PierreAndJennifer](https://github.com/mura94/image-upload/blob/main/Renders/pierre_jennifer_03_4k> (1).png?raw=true)
 
 [Back to Top](#table-of-contents)
 
 ### Stay Cool
 
-![StayCool](<https://github.com/mura94/image-upload/blob/main/Renders/staycool_v8> (1).png?raw=true)
+![StayCool](https://github.com/mura94/image-upload/blob/main/Renders/staycool_v8> (1).png?raw=true)
 
 [Back to Top](#table-of-contents)
 
 ### Hoops Madness
 
-![StayCool](<https://github.com/mura94/image-upload/blob/main/Renders/Hoops_Madness_Logo_Realistic_v1_02> (1).png?raw=true)
+![StayCool](https://github.com/mura94/image-upload/blob/main/Renders/Hoops_Madness_Logo_Realistic_v1_02> (1).png?raw=true)
 
 [Back to Top](#table-of-contents)
 
