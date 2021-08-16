@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Art Gallery
-subtitle: Some of my recent paintings
+subtitle: Some of my recent work
 ---
 
 # Art Gallery
