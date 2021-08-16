@@ -41,6 +41,8 @@ On this page you can find some of my pieces from various hobbies, including pain
     - [Coffee Cup](#coffee-cup)
   - [Animations](#animations)
     - [Soft Boiled Egg](#soft-boiled-egg)
+    - [Portfolio Demo Reel](#portfolio-demo-reel)
+    - [Jelly Square](#jelly-square)
 
 ## Paintings
 
@@ -172,7 +174,7 @@ I started learning to paint in January 2021, and it's been a great way for me to
 
 ## Renders
 
-Due to the nature of my work, I have become intimately familiar with Blender, 3D modeling, andimation, and rendering concepts & techniques. You can see some of my personal work and progression below.
+Due to the nature of my job, I spend a lot of time in Blender doing 3D modeling, texturing, and animation. This has given me a decent foundation for learning rendering concepts & techniques. You can see some of my personal work and progression below!
 
 ### Living Room
 
@@ -236,8 +238,28 @@ Due to the nature of my work, I have become intimately familiar with Blender, 3D
 
 ## Animations
 
+Like the [Renders](#renders), all animations are done in Blender. Enjoy!
+
 ### Soft Boiled Egg
 
 Blender, 2020
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/474190352?h=a8d1162de8" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+[Back to Top](#table-of-contents)
+
+### Portfolio Demo Reel
+
+Blender, 2020
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/478268083?h=cd662c90b2" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+[Back to Top](#table-of-contents)
+
+### Jelly Square
+
+Blender, 2020
+
+[Back to Top](#table-of-contents)
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/476911556?h=168227d140" width="640" height="640" frameborder="0" allowfullscreen></iframe>
