@@ -56,6 +56,7 @@ On this page you can find some of my pieces from various hobbies, including pain
       - [Blue](#blue)
       - [Green](#green)
       - [Orange](#orange)
+      - [Painted](#painted)
 
 ## Paintings
 
@@ -339,5 +340,11 @@ Blender & Cura on a Monoprice Mini v2, 2018
 #### Orange
 
 ![OrangeBaldy](https://blakejarvisdesign.files.wordpress.com/2020/11/20201118_110433.jpg?strip=info&w=2000)
+
+[Back to Top](#table-of-contents)
+
+#### Painted
+
+![PaintedBaldy](https://github.com/mura94/image-upload/blob/main/BaldyModel/20201127_122358.jpg?raw=true)
 
 [Back to Top](#table-of-contents)
