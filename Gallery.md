@@ -33,6 +33,7 @@ On this page you can find some of my pieces from various hobbies, including pain
     - [The Old Guard Inn](#the-old-guard-inn)
     - [Egg](#egg)
     - [Knife](#knife)
+    - [Empty Kitchen](#empty-kitchen)
     - [Phone](#phone)
     - [Pierre & Jennifer](#pierre--jennifer)
     - [Stay Cool](#stay-cool)
@@ -211,6 +212,12 @@ Due to the nature of my job, I spend a lot of time in Blender doing 3D modeling,
 ### Knife
 
 ![Knife](https://github.com/mura94/image-upload/blob/main/Renders/0076.png?raw=true)
+
+[Back to Top](#table-of-contents)
+
+### Empty Kitchen
+
+![Kitchen](https://github.com/mura94/image-upload/blob/main/Renders/KitchenView.png?raw=true)
 
 [Back to Top](#table-of-contents)
 
