@@ -2,7 +2,7 @@
 layout: post
 title: Leap Motion Volume Slider
 subtitle: Using a Leap Motion, Unity, and MRTK to control the system volume of my computer with my hands.
-thumbnail: https://blakejarvisdesign.files.wordpress.com/2021/01/lmc_05.jpg
+tags: [Unity, MRTK, Mixed Reality, AR, Utility]
 ---
 
 # Leap Motion Volume Slider

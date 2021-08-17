@@ -2,6 +2,7 @@
 layout: post
 title: Baking Chain Armatures in Blender (Correctly)
 subtitle: The exhausting work-around to accurately bake bone poses to animations with a Spline IK constraint bone modifier in Blender
+tags: [Resources, Blender, Animation, 3D Modeling]
 ---
 
 # Creating & Baking Chain Armatures in Blender Without Artifacts

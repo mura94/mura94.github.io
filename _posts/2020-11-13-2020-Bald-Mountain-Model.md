@@ -2,6 +2,7 @@
 layout: post
 title: Bald Mountain Model
 subtitle: Modeling, printing, and casting a miniature ski resort
+tags: [3D Modeling, 3D Printing, Resin, Casting, Art, Crafting]
 ---
 
 # Bald Mountain Model
