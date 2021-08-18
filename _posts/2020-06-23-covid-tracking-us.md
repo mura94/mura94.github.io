@@ -9,7 +9,7 @@ tags: [Python, Jupyter, Data, Covid]
 
 In this notebook we will create a graphic of the 50 states (plus D.C.), each containing a chart displaying the daily case count over time for that state.
 
-Click :point_right: [here](https://blakejarvis.design/assets/img/output_40_1.svg) to view the final map result in a new tab or scroll to the [bottom](#displaying-the-plot).
+Click [here](https://blakejarvis.design/assets/img/output_40_1.svg) to view the final map result in a new tab or scroll to the [bottom](#displaying-the-plot).
 
 
 ```python
