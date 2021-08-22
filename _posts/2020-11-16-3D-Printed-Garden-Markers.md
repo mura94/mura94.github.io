@@ -4,7 +4,6 @@ title: 3D Printed Garden Markers
 subtitle: Designing & printing little labels for my garden
 tags: [3D Modeling, 3D Printing, Blender, Crafting, Cura, Gardening, Utility]
 thumbnail-img: https://render.as-a-service.dev/?text=Gardening&scene=outrun-filter
-cover-img: ""
 ---
 
 # 3D Printed Garden Markers
