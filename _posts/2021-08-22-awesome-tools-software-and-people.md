@@ -19,7 +19,7 @@ thumbnail-img: /assets/img/awesome-links.png
     - [Modeling & Texturing](#modeling--texturing)
     - [VR](#vr)
     - [Global Illumination & Lighting](#global-illumination--lighting)
-  - [Blender](#blender)
+  - [Blender !Blender](#blender-)
     - [Tutorials](#tutorials-1)
     - [Resources & Guides](#resources--guides)
     - [Add-Ons](#add-ons)
@@ -101,9 +101,11 @@ thumbnail-img: /assets/img/awesome-links.png
 
 - [PixelWizards/com.pixelwizards.lightprobeplacement: Package Manager wrapper for LightProbe placer](https://github.com/PixelWizards/com.pixelwizards.lightprobeplacement)
 
----
+----
 
-## Blender
+## Blender ![Blender](/assets/img/blender_icon_32x32.png)
+
+Tutorials, resources, guides, useful add-ons, and helpful online accounts to follow for using Blender more efficiently.
 
 ### Tutorials
 
