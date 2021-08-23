@@ -7,7 +7,7 @@ thumbnail-img: https://render.as-a-service.dev/?text=Awesome%20Links&scene=outru
 
 # Awesome Tools, Software, & People
 
->  This list will be updated over time!
+> This list will be updated over time!
 
 - [Awesome Tools, Software, & People](#awesome-tools-software--people)
   - [Software](#software)
@@ -35,21 +35,13 @@ thumbnail-img: https://render.as-a-service.dev/?text=Awesome%20Links&scene=outru
 ## Software
 
 - [Rambox (github.com)](https://github.com/ramboxapp)
-
 - [Visual Studio Code](https://code.visualstudio.com/download)
-  
   - [Markdown All in One - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-
 - [Python](https://www.python.org/downloads/)
-  
   - [pandas - Python Data Analysis Library (pydata.org)](https://pandas.pydata.org/)
-
 - [Project Jupyter](https://jupyter.org/)
-
 - [Mark Text](https://marktext.app/)
-
 - [Unity](https://unity3d.com/get-unity/download)
-
 - [Blender](https://www.blender.org/download/)
 
 ## Unity
@@ -57,63 +49,42 @@ thumbnail-img: https://render.as-a-service.dev/?text=Awesome%20Links&scene=outru
 ### People
 
 - [Unity C# and Shader Tutorials (catlikecoding.com)](https://catlikecoding.com/unity/tutorials/)
-
 - [Febucci Creating games and talking about it](https://www.febucci.com/)
-
 - [yasirkula - Asset Store (unity.com)](https://assetstore.unity.com/publishers/22792)
-
 - [World of Zero - YouTube](https://www.youtube.com/channel/UCJKLCjeujQj-d3JjsbVtkJw)
-
 - [keijiro (Keijiro Takahashi) (github.com)](https://github.com/keijiro)
-
 - [Gaffer On Games](https://gafferongames.com/#posts)
-
 - [Code Monkey](https://unitycodemonkey.com/)
 
 ### Resource Lists
 
 - [Kavex/GameDev-Resources: A wonderful list of Game Development resources. (github.com)](https://github.com/Kavex/GameDev-Resources)
-
 - [michidk/Unity-Script-Collection: A maintained collection of useful & free unity scripts / library's / plugins and extensions (github.com)](https://github.com/michidk/Unity-Script-Collection)
-
 - [zalo/MathUtilities: A collection of some of the neat math and physics tricks that I've collected over the last few years. (github.com)](https://github.com/zalo/MathUtilities)
 
 ### Tools & Utilities
 
 - [yasirkula/UnityIngameDebugConsole: A uGUI based console to see debug messages and execute commands during gameplay in Unity (github.com)](https://github.com/yasirkula/UnityIngameDebugConsole)
-
 - [ExtendRealityLtd/Zinnia.Unity: A collection of design patterns for solving common problems. (github.com)](https://github.com/ExtendRealityLtd/Zinnia.Unity)
-
 - [Tayx94/graphy: Graphy is the ultimate, easy to use, feature packed FPS counter, stats monitor and debugger for your Unity project. (github.com)](https://github.com/Tayx94/graphy)
-
 - [keijiro/Klak: Creative coding library for Unity (github.com)](https://github.com/keijiro/Klak)
 
 ### Tutorials
 
 - [Transparent Unity App! (Overlay, Assistant, Particles) - YouTube](https://www.youtube.com/watch?v=RqgsGaMPZTw&ab_channel=CodeMonkey)
-
 - [How To Setup MRTK For Unity With Oculus Quest 2 - YouTube](https://www.youtube.com/watch?v=rb5GZVDREdk&ab_channel=DilmerValecillos)
-
 - [Timeline marker and everything leading up to it (gametorrahod.com)](https://gametorrahod.com/timeline-marker-and-everything-leading-up-to-it/)
 
 ### Modeling & Texturing
 
 - [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://www.blender.org/)
-
 - [Mixamo](https://www.mixamo.com/#/?page=1&type=Character)
-
 - [MeshLab](https://www.meshlab.net/)
-
 - [DavidArayan/ezy-slice: An open source mesh slicer framework for Unity3D Game Engine. Written in C#. (github.com)](https://github.com/DavidArayan/ezy-slice)
-
 - [NormalMap-Online (cpetry.github.io)](https://cpetry.github.io/NormalMap-Online/)
-
 - [kmkolasinski/AwesomeBump: AwesomeBump is a free program written using Qt library designed to generate normal, height, specular or ambient occlusion textures from a single image. (github.com)](https://github.com/kmkolasinski/AwesomeBump)
-
 - [Unity-Technologies/DeLightingTool: De-Lighting tool (github.com)](https://github.com/Unity-Technologies/DeLightingTool)
-
 - [Unity-Technologies/MeshSyncDCCPlugins: DCC plugins for MeshSync in Unity. Supported tools: Maya, Maya LT, 3ds Max, Motion Builder, Modo, Blender, Metasequoia (github.com)](https://github.com/Unity-Technologies/MeshSyncDCCPlugins)
-
 - [MeshApiExamples/readme.md at master · Unity-Technologies/MeshApiExamples (github.com)](https://github.com/Unity-Technologies/MeshApiExamples/blob/master/readme.md)
 
 ### VR
@@ -130,45 +101,31 @@ thumbnail-img: https://render.as-a-service.dev/?text=Awesome%20Links&scene=outru
 ### Tutorials
 
 - [Blender Guru - YouTube](https://www.youtube.com/user/AndrewPPrice)
-
 - [CG Geek - YouTube](https://www.youtube.com/user/Blenderfan93)
-
 - [IanHubert - YouTube](https://www.youtube.com/user/mrdodobird)
-
 - [Daniel Krafft - YouTube](https://www.youtube.com/channel/UCojEXrCBzO-cP2N5YlRcrWw)
-
 - [blender tips - YouTube](https://www.youtube.com/watch?v=_9dEqM3H31g&ab_channel=DanielKrafft)
-
 - [150 MORE Blender 2.8 tips you might not know about. (Blender 2.8 tips) - YouTube](https://www.youtube.com/watch?v=X0JqAF5cvGQ&t=0s&ab_channel=DanielKrafft)
 
 ### Resources & Guides
 
 - [agmmnn/awesome-blender: 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone. (github.com)](https://github.com/agmmnn/awesome-blender)
-
 - [[Blender 2.8] NEW VHS Effect Tutorial v2.3 - YouTube](https://www.youtube.com/watch?v=n-zZMiMCTYo&ab_channel=BGVC%2a)
-
 - [as-a-service/render: A simple web service that renders a Blender 3D scene with custom text. (github.com)](https://github.com/as-a-service/render)
-
 - [Simple trick for nice looking lamp (thin model with point lamp size0 100w) : blender (reddit.com)](https://www.reddit.com/r/blender/comments/egap52/simple_trick_for_nice_looking_lamp_thin_model/)
-
 - [A Large Dataset of Object Scans (redwood-data.org)](http://redwood-data.org/3dscan/index.html)
-
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/)
-
 - [Blend Swap](https://blendswap.com/)
 
 ### Add-Ons
 
 - [eliemichel/LilySurfaceScraper: Import shaders end environments in Blender from a single URL (github.com)](https://github.com/eliemichel/LilySurfaceScraper)
-
 - [stuffmatic/fSpy-Blender: Official fSpy importer for Blender (github.com)](https://github.com/stuffmatic/fSpy-Blender)
-
 - [Node Wrangler — Blender Manual](https://docs.blender.org/manual/en/latest/addons/node/node_wrangler.html)
 
 ### People
 
 - [erindale.xyz (@erindale_xyz) / Twitter](https://twitter.com/erindale_xyz?lang=en)
-
 - [Andrew Price (@andrewpprice) / Twitter](https://twitter.com/andrewpprice)
 
 ## Web Design
@@ -182,7 +139,6 @@ thumbnail-img: https://render.as-a-service.dev/?text=Awesome%20Links&scene=outru
 ## Web Tools
 
 - [Color Palettes for Designers and Artists - Color Hunt](https://colorhunt.co/)
-
 - [terrain.party](http://terrain.party/)
 
 ### APIs
@@ -194,7 +150,6 @@ thumbnail-img: https://render.as-a-service.dev/?text=Awesome%20Links&scene=outru
 ### Tutorials & Tips
 
 - [Draw Mix Paint - YouTube](https://www.youtube.com/channel/UCXgSi1Kwt7K2RUOapq2KHuQ)
-
 - [Correa Art - YouTube](https://www.youtube.com/channel/UC8tTswUqfVybm6M5Ta-Pa6A)
 
 ### Stores
