@@ -132,7 +132,7 @@ thumbnail-img: https://render.as-a-service.dev/?text=Awesome%20Links&scene=outru
 
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 
-- [Blend Swap | Home](https://blendswap.com/)
+- [Blend Swap](https://blendswap.com/)
 
 ### Add-Ons
 
@@ -177,5 +177,3 @@ thumbnail-img: https://render.as-a-service.dev/?text=Awesome%20Links&scene=outru
 ### Stores
 
 - [Buy Metal, Wood, & Canvas Picture Frames | American Frame 1973](https://www.americanframe.com/)
-
-
