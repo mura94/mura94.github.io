@@ -176,4 +176,4 @@ thumbnail-img: https://render.as-a-service.dev/?text=Awesome%20Links&scene=outru
 
 ### Stores
 
-- [Buy Metal, Wood, & Canvas Picture Frames | American Frame 1973](https://www.americanframe.com/)
+- [Buy Metal, Wood, & Canvas Picture Frames - American Frame 1973](https://www.americanframe.com/)
