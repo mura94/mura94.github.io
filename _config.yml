@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Blake Jarvis
+title: Blake Jarvis | Development, Art, & Design
 
 # Your name to show in the footer
 author: Blake Jarvis
@@ -94,7 +94,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "blake,jarvis,unity,blender"
 
 # --- Colours / background image --- #
 
