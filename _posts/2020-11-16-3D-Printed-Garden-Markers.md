@@ -8,8 +8,8 @@ thumbnail-img: https://render.as-a-service.dev/?text=Gardening&scene=outrun-filt
 
 # 3D Printed Garden Markers
 
-![Gardening](https://render.as-a-service.dev/?text=Gardening&scene=outrun-filter){: .mx-auto.d-block :}
-
+![Gardening](https://render.as-a-service.dev/?text=3D%20Printed%20Garden%20Markers&scene=outrun-filter){: .mx-auto.d-block :}
+ 
 Last February, my wife and I moved into a new house. Over the summer we had the neat new experience of learning how to garden, and of course I had to nerd out and make something special for our new hobby. Having recently been on a 3D printing spree, I was inspired to design little signs for each plant that would replace the miscellaneous tags that they came with.
 
 It was way more simple than I had initially thought. I quickly mocked up a base template for the shape in Blender, then ripped icons and images straight from Google Images as references to trace Bezier curves and meshes that I could use to cut out of the base template.
