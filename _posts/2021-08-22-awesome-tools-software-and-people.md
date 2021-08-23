@@ -35,7 +35,7 @@ thumbnail-img: https://render.as-a-service.dev/?text=Awesome%20Links&scene=outru
 
 - [Unity C# and Shader Tutorials (catlikecoding.com)](https://catlikecoding.com/unity/tutorials/)
 
-- [Febucci | Creating games and talking about it](https://www.febucci.com/)
+- [Febucci Creating games and talking about it](https://www.febucci.com/)
 
 - [yasirkula - Asset Store (unity.com)](https://assetstore.unity.com/publishers/22792)
 
