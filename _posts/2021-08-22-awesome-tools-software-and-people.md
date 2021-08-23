@@ -101,10 +101,9 @@ thumbnail-img: /assets/img/awesome-links.png
 - [PixelWizards/com.pixelwizards.lightprobeplacement: Package Manager wrapper for LightProbe placer](https://github.com/PixelWizards/com.pixelwizards.lightprobeplacement)
 
 ----
+![Blender](/assets/img/blender_icon_64x64.png){: .mx-auto.d-block :}
 
 ## Blender
-
-![Blender](/assets/img/blender_icon_64x64.png)
 
 Tutorials, resources, guides, useful add-ons, and helpful online accounts to follow for using Blender more efficiently.
 
