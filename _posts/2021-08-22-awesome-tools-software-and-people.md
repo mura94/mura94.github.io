@@ -19,7 +19,7 @@ thumbnail-img: /assets/img/awesome-links.png
     - [Modeling & Texturing](#modeling--texturing)
     - [VR](#vr)
     - [Global Illumination & Lighting](#global-illumination--lighting)
-  - [Blender !Blender](#blender-)
+  - [Blender](#blender)
     - [Tutorials](#tutorials-1)
     - [Resources & Guides](#resources--guides)
     - [Add-Ons](#add-ons)
@@ -32,7 +32,7 @@ thumbnail-img: /assets/img/awesome-links.png
     - [Tutorials & Tips](#tutorials--tips)
     - [Stores](#stores)
 
----
+----
 
 ## Software
 
@@ -44,10 +44,9 @@ thumbnail-img: /assets/img/awesome-links.png
 - [Project Jupyter](https://jupyter.org/)
 - [Mark Text](https://marktext.app/)
 - [Unity](https://unity3d.com/get-unity/download)
-- [Blender](https://www.blender.org/download/)
-- 
+- [Blender](https://www.blender.org/download/) ![Blender](/assets/img/blender_icon_16x16.png)
 
----
+----
 
 ## Unity
 
@@ -103,7 +102,9 @@ thumbnail-img: /assets/img/awesome-links.png
 
 ----
 
-## Blender ![Blender](/assets/img/blender_icon_32x32.png)
+## Blender
+
+![Blender](/assets/img/blender_icon_64x64.png)
 
 Tutorials, resources, guides, useful add-ons, and helpful online accounts to follow for using Blender more efficiently.
 
@@ -118,7 +119,7 @@ Tutorials, resources, guides, useful add-ons, and helpful online accounts to fol
 
 ### Resources & Guides
 
-- [awesome-blender: 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone](https://github.com/agmmnn/awesome-blender)
+- [awesome-blender: A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone](https://github.com/agmmnn/awesome-blender)
 - [VHS Effect Tutorial](https://www.youtube.com/watch?v=n-zZMiMCTYo&ab_channel=BGVC%2a)
 - [as-a-service/render: A simple web service that renders a Blender 3D scene with custom text](https://github.com/as-a-service/render)
 - [Simple trick for nice looking lamp](https://www.reddit.com/r/blender/comments/egap52/simple_trick_for_nice_looking_lamp_thin_model/)
@@ -137,19 +138,19 @@ Tutorials, resources, guides, useful add-ons, and helpful online accounts to fol
 - [erindale.xyz](https://twitter.com/erindale_xyz?lang=en)
 - [Andrew Price](https://twitter.com/andrewpprice)
 
----
+----
 
 ## Web Design
 
 - [daattali/beautiful-jekyll: ✨ Build a beautiful and simple website in literally minutes](https://github.com/daattali/beautiful-jekyll)
 
----
+----
 
 ## Sheets
 
 - [Everything you ever wanted to know about Sparklines in Google Sheets](https://www.benlcollins.com/spreadsheets/sparklines-in-google-sheets/)
 
----
+----
 
 ## Web Tools
 
@@ -157,13 +158,13 @@ Tutorials, resources, guides, useful add-ons, and helpful online accounts to fol
 - [terrain.party](http://terrain.party/)
 - [gist](https://gist.github.com/)
 
----
+----
 
 ### APIs
 
 - [MySportsFeeds.com](https://www.mysportsfeeds.com/)
 
----
+----
 
 ## Painting
 
