@@ -44,7 +44,7 @@ thumbnail-img: /assets/img/awesome-links.png
 - [Project Jupyter](https://jupyter.org/)
 - [Mark Text](https://marktext.app/)
 - [Unity](https://unity3d.com/get-unity/download) ![Unity](/assets/img/unity-tab-16x16.png)
-- [Blender](https://www.blender.org/download/) ![Blender](/assets/img/blender_icon_16x16.png)
+- [Blender](https://www.blender.org/download/) ![Blender](/assets/img/blender_icon_32x32.png)
 
 ----
 

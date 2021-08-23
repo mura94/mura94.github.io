@@ -3,6 +3,7 @@ layout: post
 title: Daily Covid-19 Cases in the US
 subtitle: Comparitively Visualizing daily changes in Covid-19 cases for each state
 tags: [Python, Jupyter, Data, Covid]
+thumbnail-img: /assets/img/output_40_1.png
 ---
 
 # Visualizing daily cases of COVID-19 in the United States
