@@ -48,6 +48,8 @@ thumbnail-img: /assets/img/awesome-links.png
 
 ----
 
+![Unity](../assets/img/unity-masterbrand-black.png){: .mx-auto.d-block :}
+
 ## Unity
 
 ### People
