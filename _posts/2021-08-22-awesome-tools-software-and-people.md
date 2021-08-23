@@ -101,7 +101,7 @@ thumbnail-img: /assets/img/awesome-links.png
 - [PixelWizards/com.pixelwizards.lightprobeplacement: Package Manager wrapper for LightProbe placer](https://github.com/PixelWizards/com.pixelwizards.lightprobeplacement)
 
 ----
-![Blender](/assets/img/blender_icon_64x64.png){: .mx-auto.d-block :}
+![Blender](/assets/img/blender_icon_128x128.png){: .mx-auto.d-block :}
 
 ## Blender
 
