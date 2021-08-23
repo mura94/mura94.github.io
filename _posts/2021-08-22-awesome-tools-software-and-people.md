@@ -2,7 +2,7 @@
 layout: post
 title: Awesome Tools, Software, & People
 subtitle: A list containing links to some of my favorite tools, tutorials, channels, add-ons, etc I often utilize.
-thumbnail-img: https://render.as-a-service.dev/?text=Awesome%20Links&scene=outrun-filter
+thumbnail-img: /assets/img/awesome-links.png
 ---
 
 # Awesome Tools, Software, & People

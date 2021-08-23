@@ -3,12 +3,12 @@ layout: post
 title: 3D Printed Garden Markers
 subtitle: Designing & printing little labels for my garden
 tags: [3D Modeling, 3D Printing, Blender, Crafting, Cura, Gardening, Utility]
-thumbnail-img: https://render.as-a-service.dev/?text=3D%20Printed%20Garden%20Markers&scene=outrun-filter
+thumbnail-img: /assets/img/3d-printed-garden-markers.png
 ---
 
 # 3D Printed Garden Markers
 
-![Gardening](https://render.as-a-service.dev/?text=3D%20Printed%20Garden%20Markers&scene=outrun-filter){: .mx-auto.d-block :}
+![Gardening](/assets/img/3d-printed-garden-markers.png){: .mx-auto.d-block :}
 
 Last February, my wife and I moved into a new house. Over the summer we had the neat new experience of learning how to garden, and of course I had to nerd out and make something special for our new hobby. Having recently been on a 3D printing spree, I was inspired to design little signs for each plant that would replace the miscellaneous tags that they came with.
 
