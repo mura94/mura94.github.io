@@ -49,7 +49,7 @@ Useful programs & extensions I commonly use.
 - ![InkImg](../assets/img/inkscape-logo-16x16.png) [Inkscape](https://inkscape.org/release/inkscape-1.1/)
 - ![Screen2GifImg](../assets/img/screen2gif-logo-16x16.png) [Screen2Gif](https://www.screentogif.com/)
 - ![GitHubImg](../assets/img/github-desktop-logo-16x16.png) [GitHub Desktop](https://desktop.github.com/)
-- ![OBSImg]() [OBS](https://obsproject.com/)
+- ![OBSImg](../assets/img/obs-logo-16x16.png) [OBS](https://obsproject.com/)
 
 ----
 
