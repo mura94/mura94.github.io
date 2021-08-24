@@ -196,3 +196,4 @@ Tutorials, resources, guides, useful add-ons, and helpful online accounts to fol
 ### Stores
 
 - [American Frame](https://www.americanframe.com/)
+- [Geneva Fine Art](https://genevafineart.com/)
