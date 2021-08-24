@@ -48,7 +48,7 @@ thumbnail-img: /assets/img/awesome-links.png
 
 ----
 
-![Unity](../assets/img/unity-masterbrand-black.png){: .mx-auto.d-block :}
+![UnityBig](../assets/img/unity-masterbrand-black.png){: .mx-auto.d-block :}
 
 ## Unity
 
@@ -103,7 +103,7 @@ thumbnail-img: /assets/img/awesome-links.png
 - [PixelWizards/com.pixelwizards.lightprobeplacement: Package Manager wrapper for LightProbe placer](https://github.com/PixelWizards/com.pixelwizards.lightprobeplacement)
 
 ----
-![Blender](/assets/img/blender_logo.png){: .mx-auto.d-block :}
+![BlenderBig](/assets/img/blender_logo.png){: .mx-auto.d-block :}
 
 ## Blender
 
