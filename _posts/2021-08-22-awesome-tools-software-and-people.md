@@ -48,7 +48,7 @@ Useful programs & extensions I commonly use.
 - ![GimpImg](../assets/img/gimp-logo-16x16.png) [GIMP](https://www.gimp.org/)
 - ![InkImg](../assets/img/inkscape-logo-16x16.png) [Inkscape](https://inkscape.org/release/inkscape-1.1/)
 - ![Screen2GifImg](../assets/img/screen2gif-logo-16x16.png) [Screen2Gif](https://www.screentogif.com/)
-- ![Github](../assets/img/github-desktop-icon-16x16.png) [GitHub Desktop](https://desktop.github.com/)
+- ![GitHubImg](../assets/img/github-desktop-icon-16x16.png) [GitHub Desktop](https://desktop.github.com/)
 
 ----
 
