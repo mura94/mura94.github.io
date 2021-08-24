@@ -70,6 +70,10 @@ Interesting & helpful blogs and voices in the Unity development community.
 - [keijiro (Keijiro Takahashi)](https://github.com/keijiro)
 - [Gaffer On Games](https://gafferongames.com/#posts)
 - [Code Monkey](https://unitycodemonkey.com/)
+- [Jason Dunstan](https://www.jacksondunstan.com/)
+- [Alan Zucconi](https://twitter.com/AlanZucconi)
+- [Freya Holmer](https://twitter.com/FreyaHolmer)
+- [LotteMakesStuff](https://twitter.com/LotteMakesStuff)
 
 ### Resource Lists
 
