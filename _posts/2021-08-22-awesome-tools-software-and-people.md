@@ -23,7 +23,7 @@ thumbnail-img: /assets/img/awesome-links.png
   - [People](#people-1)
 - [Web Design](#web-design)
 - [Sheets](#sheets)
-- [Web Tools](#web-tools)
+- [Web Tools & Extensions](#web-tools--extensions)
   - [APIs](#apis)
 - [Painting](#painting)
   - [Tutorials & Tips](#tutorials--tips)
@@ -49,6 +49,7 @@ Useful programs & extensions I commonly use.
 - ![InkImg](../assets/img/inkscape-logo-16x16.png) [Inkscape](https://inkscape.org/release/inkscape-1.1/)
 - ![Screen2GifImg](../assets/img/screen2gif-logo-16x16.png) [Screen2Gif](https://www.screentogif.com/)
 - ![GitHubImg](../assets/img/github-desktop-logo-16x16.png) [GitHub Desktop](https://desktop.github.com/)
+- ![OBSImg]() [OBS](https://obsproject.com/)
 
 ----
 
@@ -178,11 +179,15 @@ Tutorials, resources, guides, useful add-ons, and helpful online accounts to fol
 
 ----
 
-## Web Tools
+## Web Tools & Extensions
 
 - [Color Hunt](https://colorhunt.co/)
 - [terrain.party](http://terrain.party/)
 - [gist](https://gist.github.com/)
+- [Audio Channel](https://chrome.google.com/webstore/detail/audio-channel/hafdgamhnmiioimpcdhhbhgcjndgmphd)
+- [Basketball Box Scores](https://chrome.google.com/webstore/detail/basketball-box-scores/mfmkedeaebcckihpinmhkadoagdbifaa)
+- [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+- [Privacy Badger](https://microsoftedge.microsoft.com/addons/detail/privacy-badger/mkejgcgkdlddbggjhhflekkondicpnop)
 
 ----
 
