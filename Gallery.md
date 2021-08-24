@@ -17,7 +17,7 @@ On this page you can find some of my pieces from various hobbies, including pain
     - [Avocado](#avocado)
     - [Apples](#apples)
     - [Salmon](#salmon)
-    - [Baldy Mountain 2](#baldy-mountain-2)
+    - [Bald Mountain 2](#bald-mountain-2)
     - [Bald Mountain, ID](#bald-mountain-id)
     - [Sailing](#sailing)
     - [Wood River, ID](#wood-river-id)
@@ -97,7 +97,7 @@ I started learning to paint in January 2021, and it's been a great way for me to
 
 [Back to Top](#table-of-contents)
 
-### Baldy Mountain 2
+### Bald Mountain 2
 
 8 x 8 in, Oil on Canvas, 2021
 
