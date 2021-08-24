@@ -41,6 +41,7 @@ thumbnail-img: /assets/img/awesome-links.png
   - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - ![Python1](../assets/img/python-logo-16x16.png) [Python](https://www.python.org/downloads/)
   - [pandas](https://pandas.pydata.org/)
+  - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 - ![Jupyter](../assets/img/jupyter-logo.png) [Project Jupyter](https://jupyter.org/)
 - ![MarkText](../assets/img/mark-text-icon.png) [Mark Text](https://marktext.app/)
 - ![Unity1](../assets/img/unity-tab-16x16.png) [Unity](https://unity3d.com/get-unity/download)
