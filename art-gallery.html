@@ -9,8 +9,28 @@ images:
     title: Apples, 2021
 ---
 
+<head>
+    <link type="text/css" rel="stylesheet" href="css/lightslider.css" />                  
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="js/lightslider.js"></script>
+// Do not include both lightslider.js and lightslider.min.js
+</head>
+
+<div class = "demo">
+    <ul class = "photo-gallery">
+        <li data-thumb="https://raw.githubusercontent.com/mura94/image-upload/main/FinishedPaintings/GarlicAndSpinach_v1.png">
+            <img src="https://raw.githubusercontent.com/mura94/image-upload/main/FinishedPaintings/GarlicAndSpinach_v1.png" />
+        </li>
+        <li data-thumb="https://raw.githubusercontent.com/mura94/image-upload/main/FinishedPaintings/avocado.png">
+            <img src="https://raw.githubusercontent.com/mura94/image-upload/main/FinishedPaintings/avocado.png" />
+        </li>
+    </ul>
+</div>
+
+
+<!-- 
 <ul class="photo-gallery">
   {% for image in page.images %}
     <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
   {% endfor %}
-</ul>
+</ul> -->
