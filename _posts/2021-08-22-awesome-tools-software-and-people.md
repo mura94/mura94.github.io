@@ -5,32 +5,29 @@ subtitle: A list containing links to some of my favorite tools, tutorials, chann
 thumbnail-img: /assets/img/awesome-links.png
 ---
 
-# Awesome Tools, Software, & People
-
 > This list will be updated over time!
 
-- [Awesome Tools, Software, & People](#awesome-tools-software--people)
-  - [Software](#software)
-  - [Unity](#unity)
-    - [People](#people)
-    - [Resource Lists](#resource-lists)
-    - [Tools & Utilities](#tools--utilities)
-    - [Tutorials](#tutorials)
-    - [Modeling & Texturing](#modeling--texturing)
-    - [VR](#vr)
-    - [Global Illumination & Lighting](#global-illumination--lighting)
-  - [Blender](#blender)
-    - [Tutorials](#tutorials-1)
-    - [Resources & Guides](#resources--guides)
-    - [Add-Ons](#add-ons)
-    - [People](#people-1)
-  - [Web Design](#web-design)
-  - [Sheets](#sheets)
-  - [Web Tools](#web-tools)
-    - [APIs](#apis)
-  - [Painting](#painting)
-    - [Tutorials & Tips](#tutorials--tips)
-    - [Stores](#stores)
+- [Software](#software)
+- [Unity](#unity)
+  - [People](#people)
+  - [Resource Lists](#resource-lists)
+  - [Tools & Utilities](#tools--utilities)
+  - [Tutorials](#tutorials)
+  - [Modeling & Texturing](#modeling--texturing)
+  - [VR](#vr)
+  - [Global Illumination & Lighting](#global-illumination--lighting)
+- [Blender](#blender)
+  - [Tutorials](#tutorials-1)
+  - [Resources & Guides](#resources--guides)
+  - [Add-Ons](#add-ons)
+  - [People](#people-1)
+- [Web Design](#web-design)
+- [Sheets](#sheets)
+- [Web Tools](#web-tools)
+  - [APIs](#apis)
+- [Painting](#painting)
+  - [Tutorials & Tips](#tutorials--tips)
+  - [Stores](#stores)
 
 ----
 
