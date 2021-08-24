@@ -10,12 +10,14 @@ My name is Blake Jarvis, I'm born and raised in the Seattle area where I current
 
 I have many interests that I will be posting about on this site:
 
-- Developing AR & VR experiences
-- Painting
+- Developing AR & VR experiences and games
+- Oil painting
 - 3D printing
 - Music production & sound design
+- Piano
+- Guitar
 - Digital media & art
 
 TLDR; I like to make stuff.
 
-Please stay tuned as this site is in progress! 
+Please stay tuned as this site is in progress!
