@@ -35,6 +35,10 @@ thumbnail-img: /assets/img/awesome-links.png
 
 Useful programs & extensions I commonly use.
 
+- ![Unity1](../assets/img/unity-tab-16x16.png) [Unity](https://unity3d.com/get-unity/download)
+- ![Blender1](../assets/img/blender_icon_16x16.png) [Blender](https://www.blender.org/download/)
+- ![GimpImg](../assets/img/gimp-logo-16x16.png) [GIMP](https://www.gimp.org/)
+- ![InkImg](../assets/img/inkscape-logo-16x16.png) [Inkscape](https://inkscape.org/release/inkscape-1.1/)
 - ![Rambox1](../assets/img/rambox-logo-16x16.png) [Rambox](https://github.com/ramboxapp)
 - ![VSCode](../assets/img/vscode-logo-16x16.png) [Visual Studio Code](https://code.visualstudio.com/download)
   - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
@@ -43,13 +47,9 @@ Useful programs & extensions I commonly use.
   - [pandas](https://pandas.pydata.org/)
 - ![Jupyter](../assets/img/jupyter-logo.png) [Project Jupyter](https://jupyter.org/)
 - ![MarkText](../assets/img/mark-text-icon.png) [Mark Text](https://marktext.app/)
-- ![Unity1](../assets/img/unity-tab-16x16.png) [Unity](https://unity3d.com/get-unity/download)
-- ![Blender1](../assets/img/blender_icon_16x16.png) [Blender](https://www.blender.org/download/)
-- ![GimpImg](../assets/img/gimp-logo-16x16.png) [GIMP](https://www.gimp.org/)
-- ![InkImg](../assets/img/inkscape-logo-16x16.png) [Inkscape](https://inkscape.org/release/inkscape-1.1/)
-- ![Screen2GifImg](../assets/img/screen2gif-logo-16x16.png) [Screen2Gif](https://www.screentogif.com/)
 - ![GitHubImg](../assets/img/github-desktop-logo-16x16.png) [GitHub Desktop](https://desktop.github.com/)
 - ![OBSImg](../assets/img/obs-logo-16x16.png) [OBS](https://obsproject.com/)
+- ![Screen2GifImg](../assets/img/screen2gif-logo-16x16.png) [Screen2Gif](https://www.screentogif.com/)
 
 ----
 
@@ -64,10 +64,10 @@ Tutorials, resources, guides, useful add-ons, and helpful online accounts to fol
 Interesting & helpful blogs and voices in the Unity development community.
 
 - [Brackeys](https://m.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
+- [Catlike Coding](https://catlikecoding.com/unity/)
 - [Infallible Code](https://m.youtube.com/user/charlesamat)
-- [Unity C# and Shader Tutorials (catlikecoding.com)](https://catlikecoding.com/unity/tutorials/)
 - [Febucci Creating games and talking about it](https://www.febucci.com/)
-- [yasirkula - Asset Store (unity.com)](https://assetstore.unity.com/publishers/22792)
+- [yasirkula - Unity Asset Store](https://assetstore.unity.com/publishers/22792)
 - [World of Zero](https://www.youtube.com/channel/UCJKLCjeujQj-d3JjsbVtkJw)
 - [keijiro (Keijiro Takahashi)](https://github.com/keijiro)
 - [Gaffer On Games](https://gafferongames.com/#posts)
@@ -183,6 +183,7 @@ Tutorials, resources, guides, useful add-ons, and helpful online accounts to fol
 
 - [Color Hunt](https://colorhunt.co/)
 - [terrain.party](http://terrain.party/)
+- [Ninite](https://ninite.com/)
 - [gist](https://gist.github.com/)
 - [Audio Channel](https://chrome.google.com/webstore/detail/audio-channel/hafdgamhnmiioimpcdhhbhgcjndgmphd)
 - [Basketball Box Scores](https://chrome.google.com/webstore/detail/basketball-box-scores/mfmkedeaebcckihpinmhkadoagdbifaa)
