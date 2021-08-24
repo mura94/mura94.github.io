@@ -63,6 +63,8 @@ Tutorials, resources, guides, useful add-ons, and helpful online accounts to fol
 
 Interesting & helpful blogs and voices in the Unity development community.
 
+- [Brackeys](https://m.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
+- [Infallible Code](https://m.youtube.com/user/charlesamat)
 - [Unity C# and Shader Tutorials (catlikecoding.com)](https://catlikecoding.com/unity/tutorials/)
 - [Febucci Creating games and talking about it](https://www.febucci.com/)
 - [yasirkula - Asset Store (unity.com)](https://assetstore.unity.com/publishers/22792)
@@ -79,18 +81,19 @@ Interesting & helpful blogs and voices in the Unity development community.
 
 Helpful lists with countless additional links.
 
-- [Kavex/GameDev-Resources: A wonderful list of Game Development resources.](https://github.com/Kavex/GameDev-Resources)
-- [michidk/Unity-Script-Collection: A maintained collection of useful & free unity scripts / library's / plugins and extensions](https://github.com/michidk/Unity-Script-Collection)
-- [zalo/MathUtilities: A collection of some of the neat math and physics tricks that I've collected over the last few years.](https://github.com/zalo/MathUtilities)
+- [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources)
+- [michidk/Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection)
+- [cjacobwade/HelpfulScripts](https://github.com/cjacobwade/HelpfulScripts)
+- [zalo/MathUtilities](https://github.com/zalo/MathUtilities)
 
 ### Tools & Utilities
 
 Miscellaneous resources.
 
-- [yasirkula/UnityIngameDebugConsole: A uGUI based console to see debug messages and execute commands during gameplay in Unity](https://github.com/yasirkula/UnityIngameDebugConsole)
-- [ExtendRealityLtd/Zinnia.Unity: A collection of design patterns for solving common problems.](https://github.com/ExtendRealityLtd/Zinnia.Unity)
-- [Tayx94/graphy: Graphy is the ultimate, easy to use, feature packed FPS counter, stats monitor and debugger for your Unity project.](https://github.com/Tayx94/graphy)
-- [keijiro/Klak: Creative coding library for Unity](https://github.com/keijiro/Klak)
+- [yasirkula/UnityIngameDebugConsole](https://github.com/yasirkula/UnityIngameDebugConsole)
+- [ExtendRealityLtd/Zinnia.Unity](https://github.com/ExtendRealityLtd/Zinnia.Unity)
+- [Tayx94/graphy](https://github.com/Tayx94/graphy)
+- [keijiro/Klak](https://github.com/keijiro/Klak)
 
 ### Tutorials
 
@@ -103,27 +106,27 @@ Tutorials that I found inspiring.
 
 Useful links for those looking to learn more about modeling & texturing.
 
-- [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://www.blender.org/)
+- [Blender](https://www.blender.org/)
 - [Mixamo](https://www.mixamo.com/#/?page=1&type=Character)
 - [MeshLab](https://www.meshlab.net/)
-- [DavidArayan/ezy-slice: An open source mesh slicer framework for Unity3D Game Engine](https://github.com/DavidArayan/ezy-slice)
-- [NormalMap-Online (cpetry.github.io)](https://cpetry.github.io/NormalMap-Online/)
-- [kmkolasinski/AwesomeBump: AwesomeBump is a free program written using Qt library designed to generate normal, height, specular or ambient occlusion textures from a single image.](https://github.com/kmkolasinski/AwesomeBump)
-- [Unity-Technologies/DeLightingTool: De-Lighting tool](https://github.com/Unity-Technologies/DeLightingTool)
-- [Unity-Technologies/MeshSyncDCCPlugins: DCC plugins for MeshSync in Unity. Supported tools: Maya, Maya LT, 3ds Max, Motion Builder, Modo, Blender, Metasequoia](https://github.com/Unity-Technologies/MeshSyncDCCPlugins)
+- [DavidArayan/ezy-slice](https://github.com/DavidArayan/ezy-slice)
+- [NormalMap-Online](https://cpetry.github.io/NormalMap-Online/)
+- [kmkolasinski/AwesomeBump](https://github.com/kmkolasinski/AwesomeBump)
+- [Unity-Technologies/DeLightingTool](https://github.com/Unity-Technologies/DeLightingTool)
+- [Unity-Technologies/MeshSyncDCCPlugins](https://github.com/Unity-Technologies/MeshSyncDCCPlugins)
 - [Unity-Technologies/MeshApiExamples](https://github.com/Unity-Technologies/MeshApiExamples)
 
 ### VR
 
 Frequently visited VR resources.
 
-- [microsoft/MixedRealityToolkit-Unity: Mixed Reality Toolkit (MRTK) provides a set of components and features to accelerate cross-platform MR app development in Unity.](https://github.com/Microsoft/MixedRealityToolkit-Unity)
+- [microsoft/MixedRealityToolkit-Unity](https://github.com/Microsoft/MixedRealityToolkit-Unity)
 - [Common Rendering Mistakes: How to Find Them and How to Fix Them](https://developer.oculus.com/blog/common-rendering-mistakes-how-to-find-them-and-how-to-fix-them/)
 - [How To Setup MRTK For Unity With Oculus Quest 2](https://www.youtube.com/watch?v=rb5GZVDREdk&ab_channel=DilmerValecillos)
 
 ### Global Illumination & Lighting
 
-- [PixelWizards/com.pixelwizards.lightprobeplacement: Package Manager wrapper for LightProbe placer](https://github.com/PixelWizards/com.pixelwizards.lightprobeplacement)
+- [PixelWizards/com.pixelwizards.lightprobeplacement](https://github.com/PixelWizards/com.pixelwizards.lightprobeplacement)
 
 ----
 ![BlenderBig](/assets/img/blender_logo.png){: .mx-auto.d-block :}
@@ -143,9 +146,9 @@ Tutorials, resources, guides, useful add-ons, and helpful online accounts to fol
 
 ### Resources & Guides
 
-- [awesome-blender: A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone](https://github.com/agmmnn/awesome-blender)
+- [awesome-blender](https://github.com/agmmnn/awesome-blender)
 - [VHS Effect Tutorial](https://www.youtube.com/watch?v=n-zZMiMCTYo&ab_channel=BGVC%2a)
-- [as-a-service/render: A simple web service that renders a Blender 3D scene with custom text](https://github.com/as-a-service/render)
+- [as-a-service/render](https://github.com/as-a-service/render)
 - [Simple trick for nice looking lamp](https://www.reddit.com/r/blender/comments/egap52/simple_trick_for_nice_looking_lamp_thin_model/)
 - [A Large Dataset of Object Scans](http://redwood-data.org/3dscan/index.html)
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/)
@@ -153,8 +156,8 @@ Tutorials, resources, guides, useful add-ons, and helpful online accounts to fol
 
 ### Add-Ons
 
-- [eliemichel/LilySurfaceScraper: Import shaders end environments in Blender from a single URL](https://github.com/eliemichel/LilySurfaceScraper)
-- [stuffmatic/fSpy-Blender: Official fSpy importer for Blender](https://github.com/stuffmatic/fSpy-Blender)
+- [eliemichel/LilySurfaceScraper](https://github.com/eliemichel/LilySurfaceScraper)
+- [stuffmatic/fSpy-Blender](https://github.com/stuffmatic/fSpy-Blender)
 - [Node Wrangler](https://docs.blender.org/manual/en/latest/addons/node/node_wrangler.html)
 
 ### People
@@ -166,7 +169,7 @@ Tutorials, resources, guides, useful add-ons, and helpful online accounts to fol
 
 ## Web Design
 
-- [daattali/beautiful-jekyll: ✨ Build a beautiful and simple website in literally minutes](https://github.com/daattali/beautiful-jekyll)
+- [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)
 
 ----
 
@@ -178,7 +181,7 @@ Tutorials, resources, guides, useful add-ons, and helpful online accounts to fol
 
 ## Web Tools
 
-- [Color Hunt: Color Palettes for Designers and Artists](https://colorhunt.co/)
+- [Color Hunt](https://colorhunt.co/)
 - [terrain.party](http://terrain.party/)
 - [gist](https://gist.github.com/)
 
