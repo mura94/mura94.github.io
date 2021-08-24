@@ -36,6 +36,8 @@ thumbnail-img: /assets/img/awesome-links.png
 
 ## Software
 
+Useful programs & extensions I commonly use.
+
 - ![Rambox1](../assets/img/rambox-logo-16x16.png) [Rambox](https://github.com/ramboxapp)
 - ![VSCode](../assets/img/vscode-logo-16x16.png) [Visual Studio Code](https://code.visualstudio.com/download)
   - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
@@ -53,7 +55,11 @@ thumbnail-img: /assets/img/awesome-links.png
 
 ## Unity
 
+Tutorials, resources, guides, useful add-ons, and helpful online accounts to follow for using Unity more efficiently and effectively.
+
 ### People
+
+Interesting & helpful blogs and voices in the Unity development community.
 
 - [Unity C# and Shader Tutorials (catlikecoding.com)](https://catlikecoding.com/unity/tutorials/)
 - [Febucci Creating games and talking about it](https://www.febucci.com/)
@@ -65,11 +71,15 @@ thumbnail-img: /assets/img/awesome-links.png
 
 ### Resource Lists
 
+Helpful lists with countless additional links.
+
 - [Kavex/GameDev-Resources: A wonderful list of Game Development resources.](https://github.com/Kavex/GameDev-Resources)
 - [michidk/Unity-Script-Collection: A maintained collection of useful & free unity scripts / library's / plugins and extensions](https://github.com/michidk/Unity-Script-Collection)
 - [zalo/MathUtilities: A collection of some of the neat math and physics tricks that I've collected over the last few years.](https://github.com/zalo/MathUtilities)
 
 ### Tools & Utilities
+
+Miscellaneous resources.
 
 - [yasirkula/UnityIngameDebugConsole: A uGUI based console to see debug messages and execute commands during gameplay in Unity](https://github.com/yasirkula/UnityIngameDebugConsole)
 - [ExtendRealityLtd/Zinnia.Unity: A collection of design patterns for solving common problems.](https://github.com/ExtendRealityLtd/Zinnia.Unity)
@@ -78,10 +88,14 @@ thumbnail-img: /assets/img/awesome-links.png
 
 ### Tutorials
 
+Tutorials that I found inspiring.
+
 - [Transparent Unity App](https://www.youtube.com/watch?v=RqgsGaMPZTw&ab_channel=CodeMonkey)
 - [Timeline marker and everything leading up to it](https://gametorrahod.com/timeline-marker-and-everything-leading-up-to-it/)
 
 ### Modeling & Texturing
+
+Useful links for those looking to learn more about modeling & texturing.
 
 - [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://www.blender.org/)
 - [Mixamo](https://www.mixamo.com/#/?page=1&type=Character)
@@ -94,6 +108,8 @@ thumbnail-img: /assets/img/awesome-links.png
 - [Unity-Technologies/MeshApiExamples](https://github.com/Unity-Technologies/MeshApiExamples)
 
 ### VR
+
+Frequently visited VR resources.
 
 - [microsoft/MixedRealityToolkit-Unity: Mixed Reality Toolkit (MRTK) provides a set of components and features to accelerate cross-platform MR app development in Unity.](https://github.com/Microsoft/MixedRealityToolkit-Unity)
 - [Common Rendering Mistakes: How to Find Them and How to Fix Them](https://developer.oculus.com/blog/common-rendering-mistakes-how-to-find-them-and-how-to-fix-them/)
@@ -108,7 +124,7 @@ thumbnail-img: /assets/img/awesome-links.png
 
 ## Blender
 
-Tutorials, resources, guides, useful add-ons, and helpful online accounts to follow for using Blender more efficiently.
+Tutorials, resources, guides, useful add-ons, and helpful online accounts to follow for using Blender more efficiently and effectively.
 
 ### Tutorials
 
