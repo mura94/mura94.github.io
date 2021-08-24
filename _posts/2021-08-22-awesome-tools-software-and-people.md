@@ -39,7 +39,7 @@ thumbnail-img: /assets/img/awesome-links.png
 - [Rambox](https://github.com/ramboxapp)
 - [Visual Studio Code](https://code.visualstudio.com/download)
   - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-- [Python](https://www.python.org/downloads/)
+- [Python](https://www.python.org/downloads/) ![Python1](../assets/img/python-logo-16x16.png)
   - [pandas](https://pandas.pydata.org/)
 - [Project Jupyter](https://jupyter.org/) ![Jupyter](../assets/img/jupyter-logo.png)
 - [Mark Text](https://marktext.app/) ![MarkText](../assets/img/mark-text-icon.png)
