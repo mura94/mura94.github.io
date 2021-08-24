@@ -48,6 +48,8 @@ Useful programs & extensions I commonly use.
 - ![MarkText](../assets/img/mark-text-icon.png) [Mark Text](https://marktext.app/)
 - ![Unity1](../assets/img/unity-tab-16x16.png) [Unity](https://unity3d.com/get-unity/download)
 - ![Blender1](../assets/img/blender_icon_16x16.png) [Blender](https://www.blender.org/download/)
+- ![GimpImg](../assets/img/gimp-logo-16x16.png) [GIMP](https://www.gimp.org/)
+- ![InkImg](../assets/img/inkscape-logo-16x16.png) [Inkscape](https://inkscape.org/release/inkscape-1.1/)
 
 ----
 
