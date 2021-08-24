@@ -42,7 +42,7 @@ thumbnail-img: /assets/img/awesome-links.png
 - [Python](https://www.python.org/downloads/)
   - [pandas](https://pandas.pydata.org/)
 - [Project Jupyter](https://jupyter.org/)
-- [Mark Text](https://marktext.app/)
+- [Mark Text](https://marktext.app/) ![MarkText](../assets/img/mark-text-icon.png)
 - [Unity](https://unity3d.com/get-unity/download) ![Unity1](../assets/img/unity-tab-32x32.png)
 - [Blender](https://www.blender.org/download/) ![Blender1](../assets/img/blender_icon_16x16.png)
 
