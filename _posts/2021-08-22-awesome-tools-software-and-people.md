@@ -36,8 +36,8 @@ thumbnail-img: /assets/img/awesome-links.png
 
 ## Software
 
-- [Rambox](https://github.com/ramboxapp)
-- [Visual Studio Code](https://code.visualstudio.com/download)
+- ![Rambox1](../assets/img/rambox-logo-16x16.png) [Rambox](https://github.com/ramboxapp)
+- ![VSCode](../assets/img/vscode-logo-16x16.png) [Visual Studio Code](https://code.visualstudio.com/download)
   - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - ![Python1](../assets/img/python-logo-16x16.png) [Python](https://www.python.org/downloads/)
   - [pandas](https://pandas.pydata.org/)
