@@ -340,6 +340,12 @@ img {
     border-radius: 50%;
   {% endunless %}
   display: block;
+  transform: translateZ(0);
+}  
+.avatar-container:hover,
+.avatar-container:focus,
+.avatar-container:active {
+  transform: translateY(-8px);
 }
 
 .navbar-custom.top-nav-expanded .avatar-container {
