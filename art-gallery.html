@@ -2,22 +2,30 @@
 layout: page
 
 ---
-<ul class="image-gallery">
-    <li><a href="/assets/img/3d-printed-garden-markers.png" title="Beautiful%20Mountains" class="lightbox-image"><img
-                src="//images.weserv.nl/?url=jekyllcodex.org/uploads/album/Beautiful%20Mountains.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square"
-                alt="Beautiful Mountains" title="Beautiful Mountains"><span>Beautiful Mountains</span></a></li>
-    <li><a href="/assets/img/3d-printed-garden-markers.png" title="Museum%20of%20Pop%20Culture"
-            class="lightbox-image"><img
-                src="//images.weserv.nl/?url=jekyllcodex.org/uploads/album/Museum%20of%20Pop%20Culture.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square"
-                alt="Museum of Pop Culture" title="Museum of Pop Culture"><span>Museum of Pop Culture</span></a></li>
-    <li><a href="/assets/img/3d-printed-garden-markers.png" title="Seattle%20View" class="lightbox-image"><img
-                src="//images.weserv.nl/?url=jekyllcodex.org/uploads/album/Seattle%20View.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square"
-                alt="Seattle View" title="Seattle View"><span>Seattle View</span></a></li>
-    <li><a href="/assets/img/3d-printed-garden-markers.png" title="Seattle%20by%20Night" class="lightbox-image"><img
-                src="//images.weserv.nl/?url=jekyllcodex.org/uploads/album/Seattle%20by%20Night.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square"
-                alt="Seattle by Night" title="Seattle by Night"><span>Seattle by Night</span></a></li>
-    <li><a href="/assets/img/3d-printed-garden-markers.png" title="Space%20Needle" class="lightbox-image"><img
-                src="//images.weserv.nl/?url=jekyllcodex.org/uploads/album/Space%20Needle.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square"
-                alt="Space Needle" title="Space Needle"><span>Space Needle</span></a></li>
-</ul>
+<style>
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+    .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery a img {width: 100%; display: block;}
+  </style>
+  
+  <div class="image-gallery">
+  {% for file in site.static_files %}
+    {% if file.path contains include.folder %}
+      {% if file.extname == '.jpg' or 
+        file.extname == '.jpeg' or 
+        file.extname == '.JPG' or 
+        file.extname == '.JPEG' %}
+  
+        {% assign filenameparts = file.path | split: "/" %}
+        {% assign filename = filenameparts | last | replace: file.extname,"" %}
+  
+        <a href="{{ file.path }}" title="{{ filename }}">
+          <img src="//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" />
+          <span>{{ filename }}</span>
+        </a>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  </div>
 {% include image-gallery.html folder="/assets/img" %}
