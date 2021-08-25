@@ -348,9 +348,9 @@ img {
   transition-timing-function: ease-out;
   transform: translateZ(0);
 }  
-.avatar-img:hover,
-.avatar-img:focus,
-.avatar-img:active {
+.avatar-container:hover,
+.avatar-container:focus,
+.avatar-container:active {
   transform: translateY(-8px);
 }
 
