@@ -9,6 +9,8 @@ layout: page
     .image-gallery a img {width: 100%; display: block;}
   </style>
   
+{% include image-gallery.html folder="/assets/img" %}
+
   <div class="image-gallery">
   {% for file in site.static_files %}
     {% if file.path contains include.folder %}
@@ -28,4 +30,3 @@ layout: page
     {% endif %}
   {% endfor %}
   </div>
-{% include image-gallery.html folder="/assets/img" %}
