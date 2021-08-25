@@ -15,7 +15,7 @@ author: Blake P. Jarvis
 
 navbar-links:
   About Me: "aboutme"
-  Art Gallery: "Gallery"
+  Art Gallery: "art-gallery"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
@@ -124,6 +124,7 @@ footer-link-col: "#404040"
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 site-css:
   - "/assets/css/jupyter.css"
+  - "/assets/css/hover.css"
  # - "/assets/css/custom-styles.css"
     
 
