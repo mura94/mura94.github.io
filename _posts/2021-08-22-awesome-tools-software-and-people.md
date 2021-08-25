@@ -59,6 +59,8 @@ Useful programs & extensions I commonly use.
 
 Tutorials, resources, guides, useful add-ons, and helpful online accounts to follow for using Unity more efficiently and effectively.
 
+- ![Unity1](../assets/img/unity-tab-16x16.png) [Unity Forum](https://forum.unity.com/#welcome-to-the-unity-forums.73)
+
 ### People
 
 Interesting & helpful blogs and voices in the Unity development community.
@@ -120,6 +122,7 @@ Useful links for those looking to learn more about modeling & texturing.
 
 Frequently visited VR resources.
 
+- [Unity AR/VR/XR Forum](https://forum.unity.com/forums/ar-vr-xr-discussion.80/)
 - [microsoft/MixedRealityToolkit-Unity](https://github.com/Microsoft/MixedRealityToolkit-Unity)
 - [Common Rendering Mistakes: How to Find Them and How to Fix Them](https://developer.oculus.com/blog/common-rendering-mistakes-how-to-find-them-and-how-to-fix-them/)
 - [How To Setup MRTK For Unity With Oculus Quest 2](https://www.youtube.com/watch?v=rb5GZVDREdk&ab_channel=DilmerValecillos)
@@ -164,6 +167,10 @@ Tutorials, resources, guides, useful add-ons, and helpful online accounts to fol
 
 - [erindale.xyz](https://twitter.com/erindale_xyz?lang=en)
 - [Andrew Price](https://twitter.com/andrewpprice)
+- [CG Geek](https://www.youtube.com/user/Blenderfan93)
+- [IanHubert](https://www.youtube.com/user/mrdodobird)
+- [Daniel Krafft](https://www.youtube.com/channel/UCojEXrCBzO-cP2N5YlRcrWw)
+
 
 ----
 
