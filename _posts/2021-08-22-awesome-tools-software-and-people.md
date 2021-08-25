@@ -170,6 +170,7 @@ Tutorials, resources, guides, useful add-ons, and helpful online accounts to fol
 ## Web Design
 
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)
+- [jekyllcodex.org](https://jekyllcodex.org/without-plugins/)
 
 ----
 
