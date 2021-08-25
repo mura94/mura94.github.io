@@ -2,8 +2,12 @@
 
 source "https://rubygems.org"
 
+#gem "jekyll"
+#terminal 
+#bundle 
+
 gemspec
 
-gem 'tzinfo', '1.2.3'
+gem 'tzinfo'
 
 gem 'tzinfo-data', '1.2017.2'
