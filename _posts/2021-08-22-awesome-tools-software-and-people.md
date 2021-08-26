@@ -5,6 +5,10 @@ subtitle: A list containing links to some of my favorite tools, tutorials, chann
 thumbnail-img: /assets/img/awesome-links.png
 ---
 
+<p style="text-align: center;">
+    <a href="https://blakejarvis.design" class="button hvr-shutter-out-horizontal">Home</a>
+</p>
+
 > This list will be updated over time!
 
 - [Software](#software)
