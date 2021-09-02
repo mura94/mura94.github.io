@@ -71,4 +71,6 @@ I'm hoping to add additional features soon, but in the meantime you can:
 
 See the repository [here!](https://github.com/mura94/art-viz)
 
-
+<p style="text-align: center;">
+    <a href="https://blakejarvis.design" class="button hvr-shutter-out-horizontal">Home</a>
+</p>
