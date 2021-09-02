@@ -5,10 +5,6 @@ subtitle: A list containing links to some of my favorite tools, tutorials, chann
 thumbnail-img: /assets/img/awesome-links.png
 ---
 
-<p style="text-align: center;">
-    <a href="https://blakejarvis.design" class="button hvr-shutter-out-horizontal">Home</a>
-</p>
-
 > This list will be updated over time!
 
 - [Software](#software)
@@ -221,3 +217,8 @@ Tutorials, resources, guides, useful add-ons, and helpful online accounts to fol
 
 - [American Frame](https://www.americanframe.com/)
 - [Geneva Fine Art](https://genevafineart.com/)
+
+
+<p style="text-align: center;">
+    <a href="https://blakejarvis.design" class="button hvr-shutter-out-horizontal">Home</a>
+</p>
