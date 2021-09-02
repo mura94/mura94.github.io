@@ -13,7 +13,7 @@ Previewing art in various frames in a simulated environment
 
 ## Background
 
-Whenever I look at other artists' profiles, I am jealous of how clean their photos of their art with gorgeous, expensive looking frames with beautiful natural light shining on a bare, clean wall. 
+Whenever I look at other artists' profiles, I am jealous of how clean their photos of their art with gorgeous, expensive looking frames with beautiful natural light shining on a bare, clean wall.
 
 However, I have no such spot in my house, and no fancy camera to take crisp photos with. So using the tools that I do have, I opened Blender and whipped up a little room with bare walls, a desk with lamps and books on it, slapped a photo of my painting on a material that acted as a canvas, and made a little for that and boom!
 
@@ -53,11 +53,11 @@ and after a few seconds, I've got a pretty new render waiting for me in the same
 
 For example, here's the input:
 
-<img src="/assets/img/peaches.png" title="" alt="peaches.png" width="326">
+<img title="" src="assets/img/peaches.png" alt="peaches" width="256" data-align="inline">
 
 And here's what art-viz can spit out:
 
-<img src="/assets/img/peaches_fiji.png" title="" alt="peaches_fiji.png" width="329">
+<img src="assets/img/peaches_fiji.png" title="" alt="peaches_fiji" width="256">
 
 Pretty neat! Now a process that could have taken me up to an hour now takes me less than a minute!
 
