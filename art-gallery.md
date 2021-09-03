@@ -7,9 +7,6 @@ js: assets/js/lightbox.js
 css: assets/css/lightbox.css
 ---
 
-<a name="top"></a>
-
-
 <p style="text-align: center;">
     <a href="#painting" class="button hvr-shutter-out-horizontal">Painting</a>
     <a href="#rendering" class="button hvr-shutter-out-horizontal">Rendering</a>
