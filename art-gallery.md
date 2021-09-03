@@ -18,3 +18,11 @@ Some of my personal work. Select an image to enlarge.
 <p style="text-align: center;">
     <a href="#painting" class="button hvr-shutter-out-horizontal">Back to Top</a>
 </p>
+
+----
+
+## Rendering
+
+----
+
+{% include image-gallery.html folder="assets/img/renders/" %}
