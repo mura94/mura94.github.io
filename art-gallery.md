@@ -11,8 +11,10 @@ Some of my personal work. Select an image to enlarge.
 
 ## Painting
 
+----
+
 {% include image-gallery.html folder="assets/img/finished-paintings/" %}
 
 <p style="text-align: center;">
-    <a href="#paintings" class="button hvr-shutter-out-horizontal">Back to Top</a>
+    <a href="#painting" class="button hvr-shutter-out-horizontal">Back to Top</a>
 </p>
