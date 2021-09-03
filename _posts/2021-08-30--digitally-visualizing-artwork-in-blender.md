@@ -53,11 +53,11 @@ and after a few seconds, I've got a pretty new render waiting for me in the same
 
 For example, here's the input:
 
-<img title="" src="assets/img/peaches.png" alt="peaches" width="256" data-align="inline">
+<img title="" src="/assets/img/peaches.png" alt="peaches" width="256" data-align="inline">
 
 And here's what art-viz can spit out:
 
-<img src="assets/img/peaches_fiji.png" title="" alt="peaches_fiji" width="256">
+<img src="/assets/img/peaches_fiji.png" title="" alt="peaches_fiji" width="256">
 
 Pretty neat! Now a process that could have taken me up to an hour now takes me less than a minute!
 
