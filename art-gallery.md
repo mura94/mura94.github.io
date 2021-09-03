@@ -7,9 +7,12 @@ js: assets/js/lightbox.js
 css: assets/css/lightbox.css
 ---
 
+Some of my personal work. Select an image to enlarge.
+
+## Painting
 
 {% include image-gallery.html folder="assets/img/finished-paintings/" %}
 
 <p style="text-align: center;">
-    <a href="https://blakejarvis.design" class="button hvr-shutter-out-horizontal">Home</a>
+    <a href="#paintings" class="button hvr-shutter-out-horizontal">Back to Top</a>
 </p>
