@@ -7,7 +7,8 @@ js: assets/js/lightbox.js
 css: assets/css/lightbox.css
 ---
 
-Some of my personal work. Select an image to enlarge.
+<a name="top"></a>
+
 
 <p style="text-align: center;">
     <a href="#painting" class="button hvr-shutter-out-horizontal">Painting</a>
@@ -21,7 +22,7 @@ Some of my personal work. Select an image to enlarge.
 {% include image-gallery.html folder="assets/img/finished-paintings/" %}
 
 <p style="text-align: center;">
-    <a href="#painting" class="button hvr-shutter-out-horizontal">Back to Top</a>
+    <a href="#top" class="button hvr-shutter-out-horizontal">Back to Top</a>
 </p>
 
 ## Rendering
@@ -31,5 +32,5 @@ Some of my personal work. Select an image to enlarge.
 {% include image-gallery.html folder="assets/img/renders/" %}
 
 <p style="text-align: center;">
-    <a href="#painting" class="button hvr-shutter-out-horizontal">Back to Top</a>
+    <a href="#top" class="button hvr-shutter-out-horizontal">Back to Top</a>
 </p>
