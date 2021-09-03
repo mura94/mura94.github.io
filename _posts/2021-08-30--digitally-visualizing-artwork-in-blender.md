@@ -1,10 +1,8 @@
 ---
 layout: post
-
 title: Digitally Visualizing Artwork in Blender
-
 subtitle: Previewing art in various frames in a simulated environment
-
+thumbnail-img: /assets/img/peaches_fiji.png
 ---
 
 # Digitally Visualizing Artwork in Blender
@@ -67,7 +65,7 @@ I'm hoping to add additional features soon, but in the meantime you can:
 
 - Choose from a list of frame types
 
-- Set the hex color of the wall material 
+- Set the hex color of the wall material
 
 See the repository [here!](https://github.com/mura94/art-viz)
 
