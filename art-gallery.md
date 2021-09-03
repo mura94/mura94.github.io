@@ -24,8 +24,6 @@ Some of my personal work. Select an image to enlarge.
     <a href="#painting" class="button hvr-shutter-out-horizontal">Back to Top</a>
 </p>
 
-----
-
 ## Rendering
 
 ----
