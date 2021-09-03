@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Art Gallery
+title: Art Gallery MD
 subtitle: My personal art portfolio.
 head-extra: image-gallery.html
 js: assets/js/lightbox.js
