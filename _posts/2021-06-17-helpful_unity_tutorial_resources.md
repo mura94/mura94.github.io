@@ -5,7 +5,7 @@ subtitle: Useful links to tutorials/docs/videos/people for anyone who wants to d
 # cover-img: /assets/img/path.jpg
 # share-img: /assets/img/path.jpg
 tags: [Unity, Resources, Tutorials]
-thumnail-img: assets/unity-masterbrand-black.png
+thumnail-img: /assets/unity-masterbrand-black.png
 ---
 
 
