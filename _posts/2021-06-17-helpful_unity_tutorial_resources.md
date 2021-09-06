@@ -2,10 +2,8 @@
 layout: post
 title: Helpful Links for Learning Unity
 subtitle: Useful links to tutorials/docs/videos/people for anyone who wants to dive deeper into Unity development
-# cover-img: /assets/img/path.jpg
-# share-img: /assets/img/path.jpg
-tags: [Unity, Resources, Tutorials]
 thumnail-img: /assets/img/unity-masterbrand-black.png
+tags: [Unity, Resources, Tutorials]
 ---
 
 
