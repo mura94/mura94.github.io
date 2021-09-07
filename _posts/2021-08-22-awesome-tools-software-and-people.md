@@ -117,6 +117,7 @@ Useful links for those looking to learn more about modeling & texturing.
 - [Unity-Technologies/DeLightingTool](https://github.com/Unity-Technologies/DeLightingTool)
 - [Unity-Technologies/MeshSyncDCCPlugins](https://github.com/Unity-Technologies/MeshSyncDCCPlugins)
 - [Unity-Technologies/MeshApiExamples](https://github.com/Unity-Technologies/MeshApiExamples)
+- [wjakob/instant-meshes](https://github.com/wjakob/instant-meshes)
 
 ### VR
 
