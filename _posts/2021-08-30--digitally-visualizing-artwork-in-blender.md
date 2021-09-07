@@ -2,7 +2,7 @@
 layout: post
 title: Digitally Visualizing Artwork in Blender
 subtitle: Previewing art in various frames in a simulated environment
-thumbnail-img: /assets/img/peaches_fiji.png
+thumbnail-img: https://github.com/mura94/art-viz/blob/main/peaches_output.png?raw=true
 ---
 
 # Digitally Visualizing Artwork in Blender
