@@ -55,7 +55,7 @@ For example, here's the input:
 
 And here's what art-viz can spit out:
 
-<img src="https://github.com/mura94/art-viz/blob/main/peaches_output.png?raw=true" title="" alt="peaches_fiji" width="256">
+<img src="/assets/img/finished-paintings/Peaches.png" title="" alt="peaches_output" width="256">
 
 Pretty neat! Now a process that could have taken me up to an hour now takes me less than a minute!
 
