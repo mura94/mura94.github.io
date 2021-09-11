@@ -47,7 +47,17 @@ Long story short, I made a repository on github called **[art-viz](https://githu
 blender -b .\art-viz.blend -P render.py -- -I .\garlic.png -W 24 -H 18 -D .5 -R  CYCLES -FT BlackFloatingFrame -WC E4DED5
 ```
 
-and after a few seconds, I've got a pretty new render waiting for me in the same folder!
+*or* I can make it even easier on myself by opening my Qt form for the command arguments with:
+
+```bash
+python renderQt.py
+```
+
+This opens up a decent, cleaner way to run the command from a dialog.
+
+/assets/img/qt_demo.PNG
+
+After running my command and waiting a few seconds, I've got a rendered image waiting for me in the same folder!
 
 For example, here's the input:
 
@@ -58,6 +68,16 @@ And here's what art-viz can spit out:
 <img src="/assets/img/finished-paintings/Peaches.png" title="" alt="peaches_output" width="256">
 
 Pretty neat! Now a process that could have taken me up to an hour now takes me less than a minute!
+
+Now all it takes to preview my artwork in a frame is:
+
+1) Open the renderQt.py script
+
+2) Choose my original image, dimensions, & framing type
+
+3) Click "Render"
+
+And that's it!
 
 I'm hoping to add additional features soon, but in the meantime you can:
 
