@@ -22,6 +22,8 @@ css: assets/css/lightbox.css
     <a href="#top" class="button hvr-shutter-out-horizontal">Back to Top</a>
 </p>
 
+You can see some of the progression of these pieces and more in [this album](https://photos.app.goo.gl/2S6toWiMAuLT1Lkr5)!
+
 ## Rendering
 
 ----
