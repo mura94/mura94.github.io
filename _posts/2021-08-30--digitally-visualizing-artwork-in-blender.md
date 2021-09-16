@@ -55,7 +55,7 @@ python renderQt.py
 
 This opens up a decent, cleaner way to run the command from a dialog.
 
-/assets/img/qt_demo.PNG
+<img title="" src="/assets/img/qt_demo.PNG" alt="peaches" width="256" data-align="inline">
 
 After running my command and waiting a few seconds, I've got a rendered image waiting for me in the same folder!
 
