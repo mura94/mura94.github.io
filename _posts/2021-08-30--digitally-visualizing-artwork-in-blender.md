@@ -91,11 +91,11 @@ I'm hoping to add additional features soon, but in the meantime you can:
 
 <img title="" src = "/assets/img/art-viz-livingroom-rockface.png" alt= "livingroom" width="512" data-align="center">
 
-<img title="" src = "assets/img/art-viz-staircase-avocado.png" alt= "staircase" width="512" data-align="center">
+<img title="" src = "/assets/img/art-viz-staircase-avocado.png" alt= "staircase" width="512" data-align="center">
 
 You can still change the wall color, frame type, etc. no matter the environment, and even create your own!
 
-<img title="" src = "assets/img/art-viz-livingroom-sunset.png" alt= "sunset" width="512" data-align="center">
+<img title="" src = "/assets/img/art-viz-livingroom-sunset.png" alt= "sunset" width="512" data-align="center">
 
 See the repository [here!](https://github.com/mura94/art-viz)
 
