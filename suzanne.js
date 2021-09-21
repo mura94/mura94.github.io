@@ -1,16 +1,17 @@
 const albedo_suffix = Filament.getSupportedFormatSuffix('astc s3tc_srgb');
 const texture_suffix = Filament.getSupportedFormatSuffix('etc');
 // const environ = 'venetian_crossroads_2k'
+const assets = 'assets/img/webRendering'
 const environ = 'pillars_2k';
 const ibl_url = `${environ}/${environ}_ibl.ktx`;
 const sky_url = `${environ}/${environ}_skybox.ktx`;
-const albedo_url = `albedo${albedo_suffix}.ktx`;
-const ao_url = `ao${texture_suffix}.ktx`;
-const metallic_url = `metallic${texture_suffix}.ktx`;
-const normal_url = `normal${texture_suffix}.ktx`;
-const roughness_url = `roughness${texture_suffix}.ktx`;
-const filamat_url = 'textured.filamat';
-const filamesh_url = 'suzanne.filamesh';
+const albedo_url = `${assets}/albedo${albedo_suffix}.ktx`;
+const ao_url = `${assets}/ao${texture_suffix}.ktx`;
+const metallic_url = `${assets}/metallic${texture_suffix}.ktx`;
+const normal_url = `${assets}/normal${texture_suffix}.ktx`;
+const roughness_url = `${assets}/roughness${texture_suffix}.ktx`;
+const filamat_url = `${assets}/textured.filamat`;
+const filamesh_url = `${assets}/suzanne.filamesh`;
 Filament.init([filamat_url, filamesh_url, sky_url, ibl_url], () => {
   window.app = new App(document.getElementsByTagName('canvas')[0]);
 });
