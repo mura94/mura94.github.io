@@ -2,7 +2,7 @@
 layout: post
 title: Web Rendering Solutions
 subtitle: Tools for rendering 3D objects and environments on common web browsers.
-tags: [AR, Web, Rendering, WebXR, WebAR, GLTF, USDZ]
+tags: [AR, Web, Rendering, WebXR, WebAR, GLTF, USDZ, 3D]
 thumbnail-img: assets/img/suzanne.png
 ---
 
