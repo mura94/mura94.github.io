@@ -1,8 +1,8 @@
 const albedo_suffix = Filament.getSupportedFormatSuffix('astc s3tc_srgb');
 const texture_suffix = Filament.getSupportedFormatSuffix('etc');
 // const environ = 'venetian_crossroads_2k'
-const ibl_url = `${environ}/${environ}_ibl.ktx`;
 const environ = 'pillars_2k';
+const ibl_url = `${environ}/${environ}_ibl.ktx`;
 const sky_url = `${environ}/${environ}_skybox.ktx`;
 const albedo_url = `albedo${albedo_suffix}.ktx`;
 const ao_url = `ao${texture_suffix}.ktx`;
