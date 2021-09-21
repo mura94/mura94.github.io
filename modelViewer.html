@@ -11,7 +11,7 @@
   </head>
   <body>
     <!-- <model-viewer> HTML element -->
-    <model-viewer src="assets/img/V-Loc_v2_Suture_04.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1" exposure="1" environment-image="neutral" shadow-softness="0.36" auto-rotate camera-orbit="7.772deg 64.18deg auto" ios-src="assets/img/V-Loc_v2_02.usdz#callToAction=Learn%20More&checkoutTitle=V-Loc%20Wound%20Closure&checkoutSubtitle=Click%20here%20to%20learn%20more%20about%20the%20V-Loc%E2%84%A2%20device&allowsContentScaling=1">
+    <model-viewer src="assets/img/V-Loc_v2_Suture_04.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1" exposure="1" environment-image="neutral" shadow-softness="0.36" auto-rotate camera-orbit="7.772deg 64.18deg auto" id="ar-link" ios-src="assets/img/V-Loc_v2_02.usdz#callToAction=Learn%20More&checkoutTitle=V-Loc%20Wound%20Closure&checkoutSubtitle=Click%20here%20to%20learn%20more%20about%20the%20V-Loc%E2%84%A2%20device&allowsContentScaling=1">
       <div class="progress-bar hide" slot="progress-bar">
           <div class="update-bar"></div>
       </div>
@@ -23,6 +23,12 @@
       </div>
     </model-viewer>  
     <script src="assets/js/modelViewerScript.js"></script>
+    <script>
+      document.getElementById("ar-link").addEventListener("message", function (event) {   
+        if (event.data == "_apple_ar_quicklook_button_tapped") {
+            window.location.assign("https://www.medtronic.com/covidien/en-us/products/wound-closure/barbed-sutures.html");
+        } }, false);
+      </script>
     <!-- Loads <model-viewer> for browsers: -->
     <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
   </body>
