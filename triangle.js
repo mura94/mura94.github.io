@@ -1,9 +1,9 @@
 const albedo_suffix = Filament.getSupportedFormatSuffix('astc s3tc_srgb');
 const texture_suffix = Filament.getSupportedFormatSuffix('etc');
-const environ = 'venetian_crossroads_2k'
+// const environ = 'venetian_crossroads_2k'
 const ibl_url = `${environ}/${environ}_ibl.ktx`;
-const sky_small_url = `${environ}/${environ}_skybox_tiny.ktx`;
-const sky_large_url = `${environ}/${environ}_skybox.ktx`;
+const environ = 'pillars_2k';
+const sky_url = `${environ}/${environ}_skybox.ktx`;
 const albedo_url = `albedo${albedo_suffix}.ktx`;
 const ao_url = `ao${texture_suffix}.ktx`;
 const metallic_url = `metallic${texture_suffix}.ktx`;
@@ -11,7 +11,7 @@ const normal_url = `normal${texture_suffix}.ktx`;
 const roughness_url = `roughness${texture_suffix}.ktx`;
 const filamat_url = 'textured.filamat';
 const filamesh_url = 'suzanne.filamesh';
-Filament.init([filamat_url, filamesh_url, sky_small_url, ibl_url], () => {
+Filament.init([filamat_url, filamesh_url, sky_url, ibl_url], () => {
   window.app = new App(document.getElementsByTagName('canvas')[0]);
 });
 class App {
@@ -31,7 +31,7 @@ class App {
     this.trackball = new Trackball(canvas, {
       startSpin: 0.035
     });
-    Filament.fetch([sky_large_url, albedo_url, roughness_url, metallic_url, normal_url, ao_url],
+    Filament.fetch([sky_url, albedo_url, roughness_url, metallic_url, normal_url, ao_url],
     () => {
       const albedo = this.engine.createTextureFromKtx(albedo_url, {
         srgb: true
@@ -49,7 +49,7 @@ class App {
       this.matinstance.setTextureParameter('ao', ao, sampler);
       // Replace low-res skybox with high-res skybox.
       this.engine.destroySkybox(this.skybox);
-      this.skybox = this.engine.createSkyFromKtx(sky_large_url);
+      this.skybox = this.engine.createSkyFromKtx(sky_url);
       this.scene.setSkybox(this.skybox);
       this.scene.addEntity(this.suzanne);
     });
