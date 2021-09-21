@@ -14,7 +14,8 @@ Here are some neat ones to check out:
   - Great for cross-platform AR and generic GLTF model rendering
   - Alternative to Apple Quick Look, which is Safari-only. Also includes an option to open Quick Look (.usdz/.reality) files for iOS users
   - Neat web-based editor
-  <!-- - See a quick example [here](https://blakejarvis.design/modelViewer) -->
+  - See a quick example [here](https://blakejarvis.design/modelViewer)
+    - Not supported by some browsers it seems (I've found that msft edge only works here on some PC's)
 - [filament](https://github.com/google/filament)
   - Takes a bit of setup, but following a few tutorials can get you something like [this](https://blakejarvis.design/suzanne) which is surprisingly high res with good performance even on mobile.
 - [LGL Tracer Renderer](https://lgltracer.com/)
