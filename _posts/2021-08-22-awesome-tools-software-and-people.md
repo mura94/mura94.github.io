@@ -3,6 +3,7 @@ layout: post
 title: Awesome Tools, Software, & People
 subtitle: A list containing links to some of my favorite tools, tutorials, channels, add-ons, etc I often utilize.
 thumbnail-img: /assets/img/awesome-links.png
+tags: [Blender, Tools, Awesome]
 ---
 
 > This list will be updated over time!

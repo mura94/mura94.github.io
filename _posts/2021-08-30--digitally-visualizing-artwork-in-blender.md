@@ -3,6 +3,7 @@ layout: post
 title: Digitally Visualizing Artwork in Blender
 subtitle: Previewing art in various frames in a simulated environment
 thumbnail-img: /assets/img/finished-paintings/Peaches.png
+tags: [Blender, Painting, Art, Rendering, 3D Modeling, 3D]
 ---
 
 # Digitally Visualizing Artwork in Blender
