@@ -12,4 +12,8 @@ const onProgress = (event) => {
     }
   }
 };
+const onQuickLookButtonTapped = (event) => {
+  window.location.assign("https://www.medtronic.com/covidien/en-us/products/wound-closure/barbed-sutures.html");
+}
 document.querySelector('model-viewer').addEventListener('progress', onProgress);
+document.querySelector('model-viewer').addEventListener('quick-look-button-tapped', onQuickLookButtonTapped);
