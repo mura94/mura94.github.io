@@ -2,6 +2,8 @@
 layout: post
 title: Web Rendering Solutions
 subtitle: Tools for rendering 3D objects and environments on common web browsers.
+tags: [AR, Web, Rendering, WebXR, WebAR, GLTF, USDZ]
+thumbnail-img: assets/img/suzanne.png
 ---
 
 I've recently been looking into web-based, (somewhat) lightweight 3D rendering tools, and I've been pleasantly surprised by what is out there!
