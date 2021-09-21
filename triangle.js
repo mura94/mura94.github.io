@@ -23,7 +23,7 @@ class App {
     this.matinstance = material.createInstance();
     const filamesh = this.engine.loadFilamesh(filamesh_url, this.matinstance);
     this.suzanne = filamesh.renderable;
-    this.skybox = this.engine.createSkyFromKtx(sky_small_url);
+    this.skybox = this.engine.createSkyFromKtx(sky_url);
     this.scene.setSkybox(this.skybox);
     this.indirectLight = this.engine.createIblFromKtx(ibl_url);
     this.indirectLight.setIntensity(100000);
