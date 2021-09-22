@@ -17,7 +17,8 @@ Here are some neat ones to check out:
   - See a quick example [here](https://blakejarvis.design/modelViewer)
     - Not supported by some browsers it seems (I've found that msft edge only works here on some PC's)
 - [filament](https://github.com/google/filament)
-  - Takes a bit of setup, but following a few tutorials can get you something like [this](https://blakejarvis.design/suzanne) which is surprisingly high res with good performance even on mobile.
+  - Takes a bit of setup
+  - Quick example [here](https://blakejarvis.design/suzanne)
 - [LGL Tracer Renderer](https://lgltracer.com/)
   - I *just* saw this one and am amazed by the results. It's way less performant than the others, but just try it and see the quality of path tracing on the web!
 - [Apple Quick Look](https://developer.apple.com/augmented-reality/quick-look/)
