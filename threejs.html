@@ -10,12 +10,12 @@
 	<body>
 		<script type="module">
 
-			import * as THREE from './three';
+			import * as THREE from 'https://cdn.skypack.dev/three@0.132.2';
 
-			import { OrbitControls } from './three/examples/jsm/controls/OrbitControls.js';
-			import { GLTFLoader } from './three/examples/jsm/loaders/GLTFLoader.js';
-			import { RGBELoader } from './three/examples/jsm/loaders/RGBELoader.js';
-			import { RoughnessMipmapper } from './three/examples/jsm/utils/RoughnessMipmapper.js';
+			import { OrbitControls } from 'https://cdn.skypack.dev/three@0.132.2/examples/jsm/controls/OrbitControls.js';
+			import { GLTFLoader } from 'https://cdn.skypack.dev/three@0.132.2/examples/jsm/loaders/GLTFLoader.js';
+			import { RGBELoader } from 'https://cdn.skypack.dev/three@0.132.2/examples/jsm/loaders/RGBELoader.js';
+			import { RoughnessMipmapper } from 'https://cdn.skypack.dev/three@0.132.2/examples/jsm/utils/RoughnessMipmapper.js';
 
 			let camera, scene, renderer;
 
@@ -33,8 +33,8 @@
 				scene = new THREE.Scene();
 
 				new RGBELoader()
-					.setPath( 'textures/equirectangular/' )
-					.load( 'royal_esplanade_1k.hdr', function ( texture ) {
+					.setPath( 'assets/img/' )
+					.load( 'pillars_2k.hdr', function ( texture ) {
 
 						texture.mapping = THREE.EquirectangularReflectionMapping;
 
@@ -48,8 +48,8 @@
 						// use of RoughnessMipmapper is optional
 						const roughnessMipmapper = new RoughnessMipmapper( renderer );
 
-						const loader = new GLTFLoader().setPath( 'models/gltf/DamagedHelmet/glTF/' );
-						loader.load( 'DamagedHelmet.gltf', function ( gltf ) {
+						const loader = new GLTFLoader().setPath( 'assets/img/' );
+						loader.load( 'V-Loc_v2_Suture_04.glb', function ( gltf ) {
 
 							gltf.scene.traverse( function ( child ) {
 
