@@ -15,10 +15,10 @@ Here are some neat ones to check out:
   - Alternative to Apple Quick Look, which is Safari-only. Also includes an option to open Quick Look (.usdz/.reality) files for iOS users
   - Neat web-based editor
   - See a quick example [here](https://blakejarvis.design/modelViewer)
-    - Not supported by some browsers it seems (I've found that msft edge only works here on some PC's)
 - [filament](https://github.com/google/filament)
   - Takes a bit of setup
-  - Quick example [here](https://blakejarvis.design/suzanne)
+  - Quick example [here](https://blakejarvis.design/suzanne)    
+    - Not supported by some browsers it seems (I've found that msft edge only works here on some PC's)
 - [LGL Tracer Renderer](https://lgltracer.com/)
   - I *just* saw this one and am amazed by the results. It's way less performant than the others, but just try it and see the quality of path tracing on the web!
 - [Apple Quick Look](https://developer.apple.com/augmented-reality/quick-look/)
