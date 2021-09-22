@@ -24,7 +24,7 @@ Here are some neat ones to check out:
 - [Apple Quick Look](https://developer.apple.com/augmented-reality/quick-look/)
   - Only for Safari on compatible iOS devices
   - Reality Composer is a neat tool for really quick AR experience setup, but is a bit buggy and missing key functionality for extensive use
-  - Convert basic GLTF models to USDZ with [this handy web tool](https://spase.io/playground)
+  - Convert basic GLTF models to USDZ with [this handy web tool](https://spase.io/playground) or [three.js](https://threejs.org/editor/)
 - [SketchFab 3D Viewer](https://sketchfab.com/3d-viewer)
   - Haven't tried this yet but will do soon
 - [GLTF Sample Viewer](https://github.khronos.org/glTF-Sample-Viewer-Release/)
