@@ -48,8 +48,8 @@
 						// use of RoughnessMipmapper is optional
 						const roughnessMipmapper = new RoughnessMipmapper( renderer );
 
-						const loader = new GLTFLoader().setPath( 'assets/img/' );
-						loader.load( 'V-Loc_v2_Suture_04.glb', function ( gltf ) {
+						const loader = new GLTFLoader().setPath( 'assets/img/webRendering/' );
+						loader.load( 'SimpleSkinning.gltf', function ( gltf ) {
 
 							gltf.scene.traverse( function ( child ) {
 
