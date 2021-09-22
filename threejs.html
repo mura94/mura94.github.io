@@ -16,7 +16,6 @@
 			import { GLTFLoader } from 'https://cdn.skypack.dev/three@0.132.2/examples/jsm/loaders/GLTFLoader.js';
 			import { RGBELoader } from 'https://cdn.skypack.dev/three@0.132.2/examples/jsm/loaders/RGBELoader.js';
 			import { RoughnessMipmapper } from 'https://cdn.skypack.dev/three@0.132.2/examples/jsm/utils/RoughnessMipmapper.js';
-			import { DRACOLoader } from 'https://cdn.skypack.dev/three@0.132.2/examples/jsm/loaders/DRACOLoader.js';
 
 			let camera, scene, renderer;
 
@@ -50,7 +49,7 @@
 						const roughnessMipmapper = new RoughnessMipmapper( renderer );
 
 						const loader = new GLTFLoader().setPath( 'assets/img/webRendering/' );
-						loader.load( 'IridescentDishWithOlives.glb', function ( gltf ) {
+						loader.load( 'BoomBox.glb', function ( gltf ) {
 
 							gltf.scene.traverse( function ( child ) {
 
