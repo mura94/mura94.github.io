@@ -29,3 +29,9 @@ Here are some neat ones to check out:
 - [GLTF Sample Viewer](https://github.khronos.org/glTF-Sample-Viewer-Release/)
   - Made by the folks who design the GLTF format
   - Mostly for dev purposes it seems
+- Three.js
+  - Requires some know-how and custom setup for your own purposes
+  - Incredibly deep rendering potential
+  - [Web editor](https://threejs.org/editor/)
+  - Quick example [here](https://blakejarvis.design/threejs)
+  - Tonnnns of cool examples found [here](https://threejs.org/examples/#webgl_animation_cloth)
