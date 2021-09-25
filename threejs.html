@@ -61,6 +61,11 @@
 
 							} );
 
+							var object = scene.getObjectByName( "Depth" );
+							if(object){
+								object.scale.set(0.1,0.1,0.1);
+							}
+
 							scene.add( gltf.scene );
 
 							roughnessMipmapper.dispose();
