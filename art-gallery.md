@@ -38,7 +38,7 @@ css: assets/css/lightbox.css
 
 You can see some of the progression of these pieces and more in [this photo album](https://photos.app.goo.gl/2S6toWiMAuLT1Lkr5)!
 
-and for iOS Safari users:
+As a bonus for iOS Safari users, see one of my larger paintings in your own space in AR by clicking the picture below:
 
 <a id="ar-link" href="\assets\img\webRendering\Untitled.reality" rel="ar">
     <img src="\assets\img\finished-paintings\abstract\Untitled 2.png" width="256">
