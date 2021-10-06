@@ -25,6 +25,8 @@ tags: [Blender, Tools, Awesome]
 - [Web Design](#web-design)
 - [Sheets](#sheets)
 - [Web Tools & Extensions](#web-tools--extensions)
+- [3D on the Web](#3d-on-the-web)
+- [Augmented Reality](#augmented-reality)
   - [APIs](#apis)
 - [Painting](#painting)
   - [Tutorials & Tips](#tutorials--tips)
@@ -199,6 +201,31 @@ Tutorials, resources, guides, useful add-ons, and helpful online accounts to fol
 - [Basketball Box Scores](https://chrome.google.com/webstore/detail/basketball-box-scores/mfmkedeaebcckihpinmhkadoagdbifaa)
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 - [Privacy Badger](https://microsoftedge.microsoft.com/addons/detail/privacy-badger/mkejgcgkdlddbggjhhflekkondicpnop)
+
+----
+
+## 3D on the Web
+
+- [Three.js Editor](https://threejs.org/editor/)
+- [Playground](https://spase.io/playground)
+- [`<model-viewer>`](https://modelviewer.dev/)
+- [Safari Quick Look](https://developer.apple.com/augmented-reality/quick-look/)
+- [filament](https://github.com/google/filament)
+- [LGL Tracer Renderer](https://lgltracer.com/)
+- [SketchFab 3D Viewer](https://sketchfab.com/3d-viewer)
+- [GLTF Sample Viewer](https://github.khronos.org/glTF-Sample-Viewer-Release/)
+
+
+----
+
+## Augmented Reality
+
+- [`<model-viewer>`](https://modelviewer.dev/)
+- [Safari Quick Look](https://developer.apple.com/augmented-reality/quick-look/)
+- [Reality Composer](https://apps.apple.com/app/reality-composer/id1462358802)
+- [Reality Converter](https://developer.apple.com/services-account/download?path=/Applications/Reality_Converter/Reality_Converter_Beta.dmg)
+- [AR Foundation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@2.0/manual/index.html)
+- [WebXR Samples](https://immersive-web.github.io/webxr-samples/)
 
 ----
 
