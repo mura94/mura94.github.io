@@ -14,7 +14,7 @@ author: Blake P. Jarvis
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+#  About Me: "aboutme"
   Art Gallery: "art-gallery"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
