@@ -94,7 +94,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "blake,jarvis,unity,blender"
+keywords: 
 
 # --- Colours / background image --- #
 
