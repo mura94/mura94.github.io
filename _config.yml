@@ -40,12 +40,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "blakepjarvis@gmail.com"
-  # facebook: drblakejarvis
+#  email:
+  # facebook: 
   github: mura94
   twitter: UnityMura
-# patreon: DeanAttali
-#  youtube: c/daattali
+# patreon: 
+#  youtube: 
 #  medium: yourname
 #  reddit: yourname
   linkedin: blake-jarvis-345b4b110
@@ -54,7 +54,7 @@ social-network-links:
 #  snapchat: deanat78
   instagram: blake.p.jarvis
 #  spotify: yourname
-# telephone: +14254177866
+# telephone: 
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
