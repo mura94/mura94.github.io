@@ -3,7 +3,7 @@ layout: post
 title: 3D Printed Garden Markers
 subtitle: Designing & printing little labels for my garden
 tags: [3D Modeling, 3D Printing, Blender, Crafting, Cura, Gardening, Utility]
-thumbnail-img: https://blakejarvisdesign.files.wordpress.com/2020/11/20200503_120028.jpg?w=1152
+thumbnail-img: https://github.com/mura94/image-upload/blob/main/GardenMarkers/20200503_120028.jpg?raw=true
 ---
 
 # 3D Printed Garden Markers
@@ -18,34 +18,34 @@ Then I found a nice stencil font from dafont that I could use to slice letters o
 
 From there, it was smooth sailing. I could trace and cut out 3-4 plants per hour, and the total print time was only 1-2 hours, depending on the complexity of the traced icon. All in all I think this project was a success!
 
-![RosesBlender](https://blakejarvisdesign.files.wordpress.com/2020/11/screenshot_roses_01.png)
+![RosesBlender](https://github.com/mura94/image-upload/blob/main/GardenMarkers/Screenshot_Roses_01.png?raw=true)
 
 *In Blender, ready to export*
 
-![BroccoliCura](https://blakejarvisdesign.files.wordpress.com/2020/11/screenshot_brocolli_cura_01.png)
+![BroccoliCura](https://github.com/mura94/image-upload/blob/main/GardenMarkers/Screenshot_Brocolli_Cura_01.png?raw=true)
 
 *Scaled, rotated and sliced in Cura. Ready for printing!*
 
-![BrocolliPrinting](https://blakejarvisdesign.files.wordpress.com/2020/11/20200503_123614.jpg?w=1152)
+![BrocolliPrinting](https://github.com/mura94/image-upload/blob/main/GardenMarkers/20200503_123614.jpg?raw=true)
 
 *My little Monoprice priner doing its best…*
 
-![RosesTomatoes](https://blakejarvisdesign.files.wordpress.com/2020/11/20200514_195940.jpg?w=1152)
+![RosesTomatoes](https://github.com/mura94/image-upload/blob/main/GardenMarkers/20200514_195940.jpg?raw=true)
 
-![LemonbalmEchinacea](https://blakejarvisdesign.files.wordpress.com/2020/11/20200508_143229.jpg?w=1152)
+![LemonbalmEchinacea](https://github.com/mura94/image-upload/blob/main/GardenMarkers/20200508_143229.jpg?raw=true)
 
-![Multi1](https://blakejarvisdesign.files.wordpress.com/2020/11/20200511_194927.jpg?w=1152)
+![Multi1](https://github.com/mura94/image-upload/blob/main/GardenMarkers/20200513_065527.jpg?raw=true)
 
-![Lavender](https://blakejarvisdesign.files.wordpress.com/2020/11/20200511_194927.jpg?w=1152)
+![Lavender](https://github.com/mura94/image-upload/blob/main/GardenMarkers/20200511_194927.jpg?raw=true)
 
-![RosemarySpinach](https://blakejarvisdesign.files.wordpress.com/2020/11/20200504_065922.jpg?w=1152)
+![RosemarySpinach](https://github.com/mura94/image-upload/blob/main/GardenMarkers/20200504_065922.jpg?raw=true)
 
-![Cauliflower](https://blakejarvisdesign.files.wordpress.com/2020/11/20200504_123717.jpg?w=1152)
+![Cauliflower](https://github.com/mura94/image-upload/blob/main/GardenMarkers/20200504_123717.jpg?raw=true)
 
-![Jalaleno](https://blakejarvisdesign.files.wordpress.com/2020/11/20200504_090413.jpg?w=1152)
+![Jalaleno](https://github.com/mura94/image-upload/blob/main/GardenMarkers/20200504_090413.jpg?raw=true)
 
-![Strawberries](https://blakejarvisdesign.files.wordpress.com/2020/11/20200503_133953.jpg?w=1152)
+![Strawberries](https://github.com/mura94/image-upload/blob/main/GardenMarkers/20200503_120051.jpg?raw=true)
 
-![Beets](https://blakejarvisdesign.files.wordpress.com/2020/11/20200503_120028.jpg?w=1152)
+![Beets](https://github.com/mura94/image-upload/blob/main/GardenMarkers/20200503_120028.jpg?raw=true)
 
 Several little finished labels in the wild! You can see why I needed a specific font... some of the letters (like the 'B' in "Beets" or 'O' in "Rosemary") had the inside piece fall out since the connector was too small for the printer’s resolution. Love them anyways!
