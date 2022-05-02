@@ -3,7 +3,7 @@ layout: post
 title: Neat Little Water Shader
 subtitle: Simple fast water shader I made in Shader Graph today
 tags: [Shaders, Unity, Rendering, VR, URP, Shader Graph, Shaderlab, 3D]
-# thumbnail-img: assets/img/renders/Water_Shader.gif
+thumbnail-img: assets/img/renders/Water_Shader.gif
 ---
 
 This is just a little demo of a neat little water shader I whipped up in Shader Graph this afternoon.
