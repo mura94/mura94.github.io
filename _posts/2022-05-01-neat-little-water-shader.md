@@ -16,4 +16,4 @@ Not much to write home about, but it:
 - is very fast (mobile / VR compatible)
 - is light baking / GI compatible!
 
-[ShaderGif](/assets/img/renders/Water_Shader.gif)
+[ShaderGif](!/assets/img/renders/Water_Shader.gif)
