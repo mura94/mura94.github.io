@@ -17,3 +17,7 @@ Not much to write home about, but it:
 - is light baking / GI compatible!
 
 ![ShaderGif](/assets/img/renders/Water_Shader.gif)
+
+And here's one with a bit of wind gusts over the surface added to the shader:
+
+![Wind](/assets/img/renders/Water_WindEffects_2.gif)
