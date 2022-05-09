@@ -36,17 +36,30 @@
         </div>
       </div>
 
+      <div>
+        Scale: X: <input id="x" value="1" size="3" class="number">,
+        Y: <input id="y" value="1" size="3" class="number">,
+        Z: <input id="z" value="1" size="3" class="number">
+      </div>
+
     </model-viewer>  
 
     <script type="module">
       
       const modelViewer = document.querySelector("model-viewer");
       const modelViewerTransform = document.querySelector("model-viewer#transform");
+      const x = document.querySelector('#x');
+      const y = document.querySelector('#y');
+      const z = document.querySelector('#z');
 
+
+      const updateScale = () => {
+        modelViewerTransform.scale = `${x.value} ${y.value} ${z.value}`;
+      };
       window.switchSrc = (element, name, scale) => {
         const base = "./" + name;
         //modelViewer.src = base + '.glb';
-        modelViewerTransform.scale = `${scale.value} ${scale.value} ${scale.value}`;
+        modelViewerTransform.scale = `${x.value} ${y.value} ${z.value}`;
         modelViewer.poster = base + '.png';
         const slides = document.querySelectorAll(".slide");
         slides.forEach((element) => {element.classList.remove("selected");});
