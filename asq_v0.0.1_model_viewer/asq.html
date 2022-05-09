@@ -41,11 +41,8 @@
     <script type="module">
       
       const modelViewer = document.querySelector("model-viewer");
+      
       const modelViewerTransform = document.querySelector("model-viewer#ar-link");
-
-      const x = document.querySelector('#x');
-      const y = document.querySelector('#y');
-      const z = document.querySelector('#z');
 
       window.switchSrc = (element, name, scale) => {
         const base = "./" + name;
@@ -54,7 +51,7 @@
         modelViewerTransform.scale = `${scale} ${scale} ${scale}`;
 
         modelViewerTransform.updateFraming();
-        
+         
         modelViewerTransform.updateFraming();
 
         modelViewer.poster = base + '.png';
