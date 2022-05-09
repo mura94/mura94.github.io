@@ -29,9 +29,9 @@
         <div class="slides">
           <button class="slide selected" onclick="switchSrc(this, 'ASQ_v0.0.1_x1', 1.0)" style="background-image: url('./ActualSize.png');">
             </button>
-          <button class="slide" onclick="switchSrc(this, 'ASQ_v0.0.1_x100', 50.0)" style="background-image: url('./Large.png');">
+          <button class="slide" onclick="switchSrc(this, 'ASQ_v0.0.1_x100', 10.0)" style="background-image: url('./x10.png');">
             </button>
-          <button class="slide" onclick="switchSrc(this, 'ASQ_v0.0.1_x100', 100.0)" style="background-image: url('./Large.png');">
+          <button class="slide" onclick="switchSrc(this, 'ASQ_v0.0.1_x100', 50.0)" style="background-image: url('./x50.png');">
             </button>
         </div>
       </div>
@@ -48,25 +48,21 @@
       
       const modelViewer = document.querySelector("model-viewer");
       const modelViewerTransform = document.querySelector("model-viewer#ar-link");
-      
+
       const x = document.querySelector('#x');
       const y = document.querySelector('#y');
       const z = document.querySelector('#z');
 
-
-      const updateScale = () => {
-        modelViewerTransform.scale = `${x.value} ${y.value} ${z.value}`;
-      };
-
       window.switchSrc = (element, name, scale) => {
         const base = "./" + name;
         //modelViewer.src = base + '.glb';
-        x.value = scale;
-        y.value = scale;
-        z.value = scale;
-        updateScale();
-        // modelViewerTransform.scale = `${x.value} ${y.value} ${z.value}`;
+
+        modelViewerTransform.scale = `${scale} ${scale} ${scale}`;
+
+        modelViewerTransform.updateFraming();
+        
         modelViewer.poster = base + '.png';
+
         const slides = document.querySelectorAll(".slide");
         slides.forEach((element) => {element.classList.remove("selected");});
         element.classList.add("selected");
