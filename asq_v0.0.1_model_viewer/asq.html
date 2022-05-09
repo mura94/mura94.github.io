@@ -11,7 +11,7 @@
   </head>
   <body>
     <!-- <model-viewer> HTML element -->
-      <model-viewer bounds="tight" enable-pan src="ASQ_v0.0.1_x1.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="studio_small_08_1k.hdr" poster="poster.webp" shadow-intensity="1.48" exposure="1.14" shadow-softness="0.41" id="ar-link">
+      <model-viewer bounds="tight" enable-pan src="ASQ_v0.0.2.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="studio_small_08_1k.hdr" poster="poster.webp" shadow-intensity="1.48" exposure="1.14" shadow-softness="0.41" id="ar-link">
       <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
       </div>
@@ -27,11 +27,11 @@
 
       <div class="slider">
         <div class="slides">
-          <button class="slide selected" onclick="switchSrc(this, 'ASQ_v0.0.1_x1', 1.0)" style="background-image: url('./ActualSize.png');">
+          <button class="slide selected" onclick="switchSrc(this, 'ASQ_v0.0.2', 1.0)" style="background-image: url('./ActualSize.png');">
             </button>
-          <button class="slide" onclick="switchSrc(this, 'ASQ_v0.0.1_x100', 10.0)" style="background-image: url('./x10.png');">
+          <button class="slide" onclick="switchSrc(this, 'ASQ_v0.0.2', 10.0)" style="background-image: url('./x10.png');">
             </button>
-          <button class="slide" onclick="switchSrc(this, 'ASQ_v0.0.1_x100', 50.0)" style="background-image: url('./x50.png');">
+          <button class="slide" onclick="switchSrc(this, 'ASQ_v0.0.2', 50.0)" style="background-image: url('./x50.png');">
             </button>
         </div>
       </div>
@@ -41,7 +41,7 @@
     <script type="module">
       
       const modelViewer = document.querySelector("model-viewer");
-      
+
       const modelViewerTransform = document.querySelector("model-viewer#ar-link");
 
       window.switchSrc = (element, name, scale) => {
