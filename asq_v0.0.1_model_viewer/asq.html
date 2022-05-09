@@ -47,7 +47,8 @@
     <script type="module">
       
       const modelViewer = document.querySelector("model-viewer");
-      const modelViewerTransform = document.querySelector("model-viewer#transform");
+      const modelViewerTransform = document.querySelector("model-viewer#ar-link");
+      
       const x = document.querySelector('#x');
       const y = document.querySelector('#y');
       const z = document.querySelector('#z');
@@ -56,6 +57,7 @@
       const updateScale = () => {
         modelViewerTransform.scale = `${x.value} ${y.value} ${z.value}`;
       };
+
       window.switchSrc = (element, name, scale) => {
         const base = "./" + name;
         //modelViewer.src = base + '.glb';
