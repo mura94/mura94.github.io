@@ -59,7 +59,11 @@
       window.switchSrc = (element, name, scale) => {
         const base = "./" + name;
         //modelViewer.src = base + '.glb';
-        modelViewerTransform.scale = `${x.value} ${y.value} ${z.value}`;
+        x.value = scale;
+        y.value = scale;
+        z.value = scale;
+        updateScale();
+        // modelViewerTransform.scale = `${x.value} ${y.value} ${z.value}`;
         modelViewer.poster = base + '.png';
         const slides = document.querySelectorAll(".slide");
         slides.forEach((element) => {element.classList.remove("selected");});
