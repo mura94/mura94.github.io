@@ -36,12 +36,12 @@
         </div>
       </div>
 
-      <div class="controls">
+      <!-- <div class="controls">
         <div>
           <p>Scale: <span id="scale-value"></span></p>
           <input id="scale" type="range" min="1" max="50" step="1" value="1">
         </div>
-      </div>
+      </div> -->
 
     </model-viewer>  
 
@@ -52,12 +52,14 @@
       const modelViewerTransform = document.querySelector("model-viewer#ar-link");
 
       window.switchSrc = (element, name, scale) => {
+
         const base = "./" + name;
+
         //modelViewer.src = base + '.glb';
 
-        // modelViewerTransform.scale = `${scale} ${scale} ${scale}`;
+        modelViewerTransform.scale = `${scale} ${scale} ${scale}`;
 
-        modelViewerTransform.updateFraming();
+        //modelViewerTransform.updateFraming();
 
         modelViewer.poster = base + '.png';
 
@@ -71,9 +73,9 @@
         ev.preventDefault();
       });
 
-      document.querySelector('#scale').addEventListener('input', (event) => {
-        modelViewerTransform.scale = `${event.target.value} ${event.target.value} ${event.target.value}`;
-      });
+      // document.querySelector('#scale').addEventListener('input', (event) => {
+      //   modelViewerTransform.scale = `${event.target.value} ${event.target.value} ${event.target.value}`;
+      // });
     </script>
     
     <script src="script.js"></script>
