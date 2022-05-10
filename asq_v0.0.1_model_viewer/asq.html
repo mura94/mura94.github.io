@@ -36,6 +36,13 @@
         </div>
       </div>
 
+      <div class="controls">
+        <div>
+          <p>Scale: <span id="scale-value"></span></p>
+          <input id="scale" type="range" min="1" max="50" step="1" value="1">
+        </div>
+      </div>
+
     </model-viewer>  
 
     <script type="module">
@@ -48,10 +55,8 @@
         const base = "./" + name;
         //modelViewer.src = base + '.glb';
 
-        modelViewerTransform.scale = `${scale} ${scale} ${scale}`;
+        // modelViewerTransform.scale = `${scale} ${scale} ${scale}`;
 
-        modelViewerTransform.updateFraming();
-         
         modelViewerTransform.updateFraming();
 
         modelViewer.poster = base + '.png';
@@ -64,6 +69,10 @@
       document.querySelector(".slider").addEventListener('beforexrselect', (ev) => {
         // Keep slider interactions from affecting the XR scene.
         ev.preventDefault();
+      });
+
+      document.querySelector('#scale').addEventListener('input', (event) => {
+        modelViewerTransform.scale = `${event.target.value} ${event.target.value} ${event.target.value}`;
       });
     </script>
     
