@@ -22,18 +22,18 @@
       <a-marker type="pattern" preset="custom" url="/arjs/markers/XR_TrackingImage.patt">
 
         <a-entity
-          position="0 0 0"
+          position="0 1 0"
           scale="2 2 2"
           gltf-model="#helmet"
-          event-set__makevisible="_event: mouseenter; visible: true"
         ></a-entity>
 
-      <a-circle color="#1010EB" radius="20"></a-circle>
-
+      <a-circle color="#1010EB" radius="3"></a-circle>
+      <a-circle color="#FFFFF" radius="4"></a-circle>
      
       </a-marker>
+
       <a-entity camera>
-        <a-cursor></a-cursor>
+
       </a-entity>
     </a-scene>
   </body>
