@@ -4,12 +4,23 @@
   <!-- we import arjs version without NFT but with marker + location based support -->
   <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
   <body style="margin : 0px; overflow: hidden;">
-    <a-scene embedded arjs>
+    <a-scene 
+      embedded 
+      arjs
+      vr-mode-ui="enabled: false"
+      id="scene"
+      >
+      <a-assets>
+        <!-- <a-asset-item id="cityModel" src="https://cdn.aframe.io/test-models/models/glTF-2.0/virtualcity/VC.gltf"></a-asset-item> -->
+        <a-asset-item id="helmet" src="url(/arjs/DamagedHelmet.gltf)"></a-asset-item>
+      </a-assets>
+
       <a-marker type="pattern" preset="custom" url="/arjs/markers/XR_TrackingImage.patt">
+        
         <a-entity
           position="0 0 0"
-          scale="1 1 1"
-          gltf-model="url(/assets/img/webRendering/MaterialsVariantsShoe.glb)"
+          scale="2 2 2"
+          gltf-model="#helmet"
         ></a-entity>
 
 
