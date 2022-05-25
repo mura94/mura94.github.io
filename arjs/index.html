@@ -57,10 +57,15 @@
       </a-entity>
     </a-nft> -->
     <!-- static camera that moves according to the device movemenents -->
-    <a-marker id="marker" markerhandler emitevents="true" preset="hiro" size=".1">
+    <a-marker id="marker" markerhandler emitevents="true" preset="hiro" size="1"
+    smooth="true"
+    smoothCount="10"
+    smoothTolerance="0.1"
+    smoothThreshold="5"
+    >
         <a-entity
         gltf-model="url(/arjs/DamagedHelmet.gltf)"
-        scale="100 100 100"
+        scale="10 10 10"
         position="0 0 0"
       >
       </a-entity>
