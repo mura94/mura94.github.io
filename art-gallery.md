@@ -24,11 +24,11 @@ css: assets/css/lightbox.css
 
 {% include image-gallery.html folder="assets/img/finished-paintings/still-life/" %}
 
-### Landscape
+### Landscape & Nature
 
 {% include image-gallery.html folder="assets/img/finished-paintings/landscape/" %}
 
-### Animal Series
+### Wildlife
 
 {% include image-gallery.html folder="assets/img/finished-paintings/animals/" %}
 
