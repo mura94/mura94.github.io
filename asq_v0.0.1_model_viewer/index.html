@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>ASQ; ASQ Viewer</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="./style.css" />
+    <script
+      src="https://unpkg.com/focus-visible@5.0.2/dist/focus-visible.js"
+      defer
+    ></script>
+  </head>
+  <body>
+    <model-viewer
+      bounds="tight"
+      enable-pan
+      src="./ASQ_v0.0.3.glb"
+      ar
+      ar-modes="webxr scene-viewer quick-look"
+      camera-controls
+      poster="poster.webp?v=1654540362966"
+      shadow-intensity="1.48"
+      exposure="1.14"
+      shadow-softness="0.41"
+      id="ar-link"
+      autoplay
+      ios-src="./ASQ_v0.0.13_Animated.usdz?v=1654716482229#callToAction=Learn%20More&checkoutTitle=Attain%20Stability%20Quad&checkoutSubtitle=Learn%20more%20about%20Attain%20Stability%20Quad%E2%84%A2%20Here&allowsContentScaling=1"
+    >
+      <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+      </div>
+      <button slot="ar-button" id="ar-button">View in your space</button>
+      <!-- slot="ar-button" -->
+      <div id="ar-prompt">
+        <img
+          src="./ar_icon.png"
+        />
+      </div>
+      <button id="ar-failure">AR is not tracking!</button>
+      <div class="slider" id="slider">
+        <div class="slides">
+          <button
+            id="test"
+            class="slide selected"
+            onclick="switchSrc(this, 'ASQ_v0.0.3', 1.0)"
+          >
+            Actual Size
+          </button>
+          <button class="slide" onclick="switchSrc(this, 'ASQ_v0.0.3', 10.0)">
+            x10
+          </button>
+          <button class="slide" onclick="switchSrc(this, 'ASQ_v0.0.3', 20.0)">
+            x20
+          </button>
+        </div>
+      </div>
+      <div class="center">
+        <a
+          href="https://www.medtronic.com/us-en/healthcare-professionals/products/cardiac-rhythm/crt-systems/left-heart-leads/attain-stability-quad.html"
+          >Learn more about Attain Stability Quad Here</a
+        >
+      </div>
+    </model-viewer>
+
+    <script type="module">
+      const modelViewer = document.querySelector("model-viewer");
+
+      const modelViewerTransform = document.querySelector(
+        "model-viewer#ar-link"
+      );
+
+      window.switchSrc = (element, name, scale) => {
+        const base = "./" + name;
+
+        modelViewerTransform.scale = `${scale} ${scale} ${scale}`;
+
+        modelViewer.poster = base + ".png";
+
+        const slides = document.querySelectorAll(".slide");
+        slides.forEach((element) => {
+          element.classList.remove("selected");
+        });
+        element.classList.add("selected");
+      };
+
+      document
+        .querySelector(".slider")
+        .addEventListener("beforexrselect", (ev) => {
+          ev.preventDefault();
+        });
+    </script>
+    <script src="./script.js"></script>
+    <script
+      type="module"
+      src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"
+    ></script>
+  </body>
+</html>

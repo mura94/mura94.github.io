@@ -11,5 +11,10 @@ const onProgress = (event) => {
       event.target.querySelector('.center-pre-prompt').classList.add('hide');
     }
   }
+  
 };
+const onQuickLookButtonTapped = (event) => {
+  window.location.assign("https://www.medtronic.com/us-en/healthcare-professionals/products/cardiac-rhythm/crt-systems/left-heart-leads/attain-stability-quad.html");
+}
 document.querySelector('model-viewer').addEventListener('progress', onProgress);
+document.querySelector('model-viewer').addEventListener('quick-look-button-tapped', onQuickLookButtonTapped);
