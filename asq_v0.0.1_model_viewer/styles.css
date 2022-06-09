@@ -6,7 +6,8 @@ body {
   margin: 0;
   padding: 0;
   width: 100vw;
-  height: 100vh;
+  position: fixed;
+  height: 100%;
 }
 
 model-viewer {
@@ -46,19 +47,21 @@ model-viewer {
 }
 
 #ar-button {
-  font-family: Roboto Regular, Helvetica Neue, sans-serif;
+  font-family: 'Avenir Next World Regular',sans-serif;
+  font-weight: 400;  
   border: 1px solid #1010eb;
+  color: #1010eb;
   background-color: white;
   border-radius: 36px;
-  position: relative;
-  top: 78%;
-  width: 300px;
-  height: 36px;
+  position: absolute;
+  bottom:96px;
+  right:25%;
+  left:50%;
+  height: 48px;
+  margin-left:-180px;
+  width: 360px;
   text-align: center;
-  margin: auto;
-  color: #1010eb;
-  justify-content: center;
-  align-items: center;
+  font-size: 14px; 
   display: block;
 }
 
@@ -95,7 +98,7 @@ model-viewer {
 model-viewer > #ar-prompt {
   position: absolute;
   left: 50%;
-  bottom: 100px;
+  bottom: 50%;
   animation: elongate 2s infinite ease-in-out alternate;
   display: none;
 }
@@ -105,16 +108,27 @@ model-viewer[ar-status="session-started"] > #ar-prompt {
 }
 
 .center {
-  font-family: Roboto Regular, Helvetica Neue, sans-serif;
+  font-family: 'Avenir Next World Demi',sans-serif;
+  font-weight: 400;
   border: 1px solid #1010eb;
   background-color: #1010eb;
   border-radius: 36px;
-  position: relative;
-  top: 85%;
-  width: 300px;
+  position: absolute;
+  bottom:24px;
+  right:25%;
+  left:50%;
+  margin-left:-180px;
+  width: 360px;
+  height: 48px;
   text-align: center;
-  margin: auto;
-  font-size: 12px;
+  font-size: 14px; 
+  display: block;
+}
+
+.center:active {
+  background-color: #285EFF;
+  color: #1010eb;
+  border: 1px solid #1010eb;
 }
 
 .center > a:link,
@@ -124,6 +138,7 @@ model-viewer[ar-status="session-started"] > #ar-prompt {
   text-decoration: none;
   display: block;
 }
+
 
 model-viewer > #ar-prompt > img {
   animation: circle 4s linear infinite;
@@ -145,12 +160,30 @@ model-viewer[ar-status="not-presenting"] > #slider {
   display: none;
 }
 
-.slider {
+model-viewer[ar-status="object-placed" > #slider] {
   display: block;
+}
+
+model-viewer > #logo > img {
+  position: absolute;
+  left: 24px;
+  top: 24px;
+  max-width: 128px;
+  height: auto;
+}
+
+model-viewer[ar-status="session-started"] > #logo {
+  display: none;
+}
+
+model-viewer[ar-status="object-placed"] > #logo {
+  display: none;
+}
+
+.slider {
   width: 100%;
-  overflow: hidden;
-  position: relative;
-  top: 80%;
+  position: absolute;
+  bottom: 64px;
 }
 
 .slides {
@@ -163,11 +196,11 @@ model-viewer[ar-status="not-presenting"] > #slider {
   width: 64px;
   height: 64px;
   background-color: #ffffff;
-  margin-right: 10px;
-  margin-left: 10px;
+  margin: 44px;
   border-radius: 100px;
   border: 2px solid #1010eb;
-  font-family: Roboto Regular, Helvetica Neue, sans-serif;
+  font-family: 'Avenir Next World Regular',sans-serif;
+  font-weight: 400;  
   font-size: 14px;
   color: #1010eb;
   align-content: center;
@@ -185,4 +218,17 @@ model-viewer[ar-status="not-presenting"] > #slider {
 
 .slide:focus-visible {
   outline: 1px solid #1010eb;
+}
+
+.title {
+  font-size: 44px;
+  font-family: 'Avenir Next World Demi',sans-serif;
+  font-weight: 400;  
+  color: #1010eb;
+  align-content: center;
+  display: block;
+  position: relative;
+  top: 96px;
+  left: 24px;
+  text-align: left;
 }
