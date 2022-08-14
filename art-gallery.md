@@ -16,6 +16,10 @@ css: assets/css/lightbox.css
 
 ----
 
+### Line Paintings
+
+{% include image-gallery.html folder="assets/img/finished-paintings/lines/" %}
+
 ### Abstract
 
 {% include image-gallery.html folder="assets/img/finished-paintings/abstract/" %}
@@ -26,11 +30,7 @@ css: assets/css/lightbox.css
 
 ### Landscape & Nature
 
-{% include image-gallery.html folder="assets/img/finished-paintings/landscape/" %}
-
-### Wildlife
-
-{% include image-gallery.html folder="assets/img/finished-paintings/animals/" %}
+{% include image-gallery.html folder="assets/img/finished-paintings/nature/" %}
 
 <p style="text-align: center;">
     <a href="#top" class="button hvr-shutter-out-horizontal">Back to Top</a>
